@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `The Institute for Digital Public Infrastructure`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    description: `The Institute for Digital Public Infrastructure is a new research center based at the University of Massachusetts at Amherst, connecting the School for Public Policy, the Department of Communication, and the College of Information and Computer Sciences. The Institute studies the civic and social role of internet platforms, and advocates for approaches to digital infrastructures that treat platforms and supporting technologies as public spaces and public goods, not purely as profit-making ventures.`,
+    author: `Mike Sugarman`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
