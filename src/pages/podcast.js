@@ -48,7 +48,7 @@ const Podcast = ({ data }) => {
     <>
       <SEO title='title' />
       <Layout>
-        <Title>Reimagining the Internet</Title>
+        <Title>Reimagine the Internet</Title>
         {edges.map(({node}) => {
           const { body, excerpt } = node
           const { publicationDate, title, slug, url } = node.frontmatter
