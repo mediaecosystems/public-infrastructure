@@ -2,33 +2,43 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 
+import styled from "@emotion/styled"
+import { css } from "@emotion/core"
+
+import colors from "./colors"
+
+const HeaderWrapper = styled.header`
+  background: ${colors.offWhite};
+  color: ${colors.uMass};
+  text-align: right;
+  margin: 15vh auto;
+`
+
+const SiteTitle = styled.h1`
+
+`
+
+const StyledLink = styled(Link)`
+  color: ${colors.uMass};
+  text-decoration: none;
+`
+
+const SubHeader = styled.h2`
+  text-align: right;
+  line-height: 0;
+`
+
 const Header = ({ siteTitle }) => (
-  <header
-    style={{
-      background: `rebeccapurple`,
-      marginBottom: `1.45rem`,
-    }}
-  >
-    <div
-      style={{
-        margin: `0 auto`,
-        maxWidth: 960,
-        padding: `1.45rem 1.0875rem`,
-      }}
-    >
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: `white`,
-            textDecoration: `none`,
-          }}
-        >
+  <HeaderWrapper>
+    <div>
+      <h1>
+        <StyledLink to="/">
           {siteTitle}
-        </Link>
+        </StyledLink>
       </h1>
+      <SubHeader>@ UMass Amherst</SubHeader>
     </div>
-  </header>
+  </HeaderWrapper>
 )
 
 Header.propTypes = {
