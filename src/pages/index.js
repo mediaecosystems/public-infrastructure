@@ -9,14 +9,23 @@ import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
 
+const breakpoints = [600]
+
+const mq = breakpoints.map(
+  bp => `@media (min-width: ${bp}px)`
+)
+
 const IndexWrapper = styled.div`
   display: grid;
   grid-template-columns: repeat(12, 1fr);
 `
 
 const AboutText = styled.main`
-  grid-column: 1/7;
+  grid-column: 1/13;
   font-family: Clear Sans;
+  ${mq[0]} {
+    grid-column: 1/7;
+  }
 `
 
 const YoutubeWrapper = styled.div`
