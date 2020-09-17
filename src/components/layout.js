@@ -10,7 +10,7 @@ import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
 import styled from "@emotion/styled"
-import "typeface-noto-sans"
+import "typeface-clear-sans"
 
 import Header from "./header"
 import "./layout.css"
@@ -23,7 +23,7 @@ const LayoutWrapper = styled.div`
 `
 
 const MainWrapper = styled.main`
-  font-family: Noto Sans;
+  font-family: Clear Sans;
 `
 
 const Layout = ({ children }) => {
