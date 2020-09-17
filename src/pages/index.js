@@ -3,6 +3,7 @@ import { graphql, Link } from "gatsby"
 
 import styled from "@emotion/styled"
 import { MDXRenderer } from "gatsby-plugin-mdx"
+import "typeface-clear-sans"
 
 import Layout from "../components/layout"
 import Image from "../components/image"
@@ -15,6 +16,7 @@ const IndexWrapper = styled.div`
 
 const AboutText = styled.main`
   grid-column: 1/7;
+  font-family: Clear Sans;
 `
 
 const YoutubeWrapper = styled.div`
