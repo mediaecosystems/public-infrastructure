@@ -1,4 +1,4 @@
 export default {
-  offWhite: "#fff9e6",
-  uMass: "#881C1C",
+  offWhite: "#f9f6ef",
+  uMass: "#a50000",
 }

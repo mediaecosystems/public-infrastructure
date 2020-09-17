@@ -4,6 +4,7 @@ import React from "react"
 
 import styled from "@emotion/styled"
 import { css } from "@emotion/core"
+import "typeface-quando"
 
 import colors from "./colors"
 
@@ -15,7 +16,8 @@ const HeaderWrapper = styled.header`
 `
 
 const SiteTitle = styled.h1`
-
+  font-family: Quando;
+  font-size: xx-large;
 `
 
 const StyledLink = styled(Link)`
@@ -24,18 +26,20 @@ const StyledLink = styled(Link)`
 `
 
 const SubHeader = styled.h2`
+  font-family: Quando;
   text-align: right;
   line-height: 0;
+  font-size: x-large;
 `
 
 const Header = ({ siteTitle }) => (
   <HeaderWrapper>
     <div>
-      <h1>
+      <SiteTitle>
         <StyledLink to="/">
           {siteTitle}
         </StyledLink>
-      </h1>
+      </SiteTitle>
       <SubHeader>@ UMass Amherst</SubHeader>
     </div>
   </HeaderWrapper>

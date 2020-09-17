@@ -10,15 +10,20 @@ import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
 import styled from "@emotion/styled"
+import "typeface-clear-sans"
 
 import Header from "./header"
 import "./layout.css"
 import colors from "./colors"
 
-const LayoutWrapper = styled.main`
+const LayoutWrapper = styled.div`
   background: ${colors.offWhite};
   padding: 1vh 5vw;
   min-height: 100vh;
+`
+
+const MainWrapper = styled.main`
+  font-family: Clear Sans;
 `
 
 const Layout = ({ children }) => {
@@ -35,9 +40,9 @@ const Layout = ({ children }) => {
   return (
     <LayoutWrapper>
       <Header siteTitle={data.site.siteMetadata.title} />
-      <main>
+      <MainWrapper>
         {children}
-      </main>
+      </MainWrapper>
     </LayoutWrapper>
   )
 }

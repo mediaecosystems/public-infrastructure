@@ -3,6 +3,7 @@ import { graphql, Link } from "gatsby"
 
 import styled from "@emotion/styled"
 import { MDXRenderer } from "gatsby-plugin-mdx"
+import "typeface-clear-sans"
 
 import Layout from "../components/layout"
 import Image from "../components/image"
@@ -38,7 +39,7 @@ const Embed = styled.iframe`
 `
 
 const Text = styled.body`
-
+  font-family: Clear Sans;
 `
 
 const Podcast = ({ data }) => {
