@@ -25,12 +25,14 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     reporter.panicOnBuild(`Error while running GraphQL query.`)
     return
   }
-  result.data.podcastQuery.edges.forEach(({ node }) => {
+
+  const podcasts = result.data.podcastQuery.edges
+
+  podcasts.forEach(({ node }) => {
     createPage({
       path: node.frontmatter.slug,
       component: podcastTemplate,
       context: {
-        // additional data can be passed via context
         slug: node.frontmatter.slug,
       },
     })

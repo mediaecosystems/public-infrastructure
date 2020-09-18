@@ -2,7 +2,7 @@
 type: podcast-episode
 status: published
 slug: /podcast/01-talia-stroud
-featuredImage: '../images/idpi-logo-black.png'
+featuredImage: '../images/idpi-logo-square.png'
 guid: c30fddca-79fb-48b1-8ad5-69591149df8c
 title: Hello, podcast! 1
 subtitle: The first ever episode.
@@ -19,7 +19,7 @@ explicit: false
 categories:
   - Category 1
   - Category 2
-youtubeLink: 'https://www.youtube.com/watch?v=KGXpNpS9aTY'
+youtubeEmbedURL: 'https://www.youtube.com/embed/KGXpNpS9aTY'
 ---
 
 Your main content here.

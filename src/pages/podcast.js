@@ -4,23 +4,28 @@ import { graphql, Link } from "gatsby"
 import styled from "@emotion/styled"
 import { MDXRenderer } from "gatsby-plugin-mdx"
 import "typeface-clear-sans"
+import "typeface-lusitana"
 
 import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
 
 const Title = styled.h1`
-  margin: auto 10vw;
+  font-family: Lusitana;
+`
+
+const Description = styled.p`
+  font-style: italic;
 `
 
 const PodcastsWrapper = styled.div`
-
+  margin: 10vh 10vw;
 `
 
 const EpisodeWrapper = styled.div`
   width: 70vw;
-  margin: 10vh auto;
-  border-bottom: 5px solid;
+  border-bottom: 1px solid;
+  margin: 5vh auto;
 `
 
 const EpisodeDetails = styled.div`
@@ -28,14 +33,7 @@ const EpisodeDetails = styled.div`
 `
 
 const PodcastTitle = styled.h2`
-
-`
-
-const Embed = styled.iframe`
-  border: 0;
-  height: 50px;
-  width: 100%;
-  justify-content: left;
+  font-family: Lusitana;
 `
 
 const Text = styled.body`
@@ -47,26 +45,33 @@ const Podcast = ({ data }) => {
 
   return(
     <>
-      <SEO title='title' />
+      <SEO title='Reimagine the Internet' />
       <Layout>
-        <Title>Reimagine the Internet</Title>
-        {edges.map(({node}) => {
-          const { body, excerpt } = node
-          const { publicationDate, title, slug, url } = node.frontmatter
-          return(
-            <EpisodeWrapper>
-              <EpisodeDetails>
-                <Link to={slug}>
-                  <PodcastTitle>{title}</PodcastTitle>
-                </Link>
-                <Embed src={url} width='100%' height='auto' webkitallowfullscreen="true" mozallowfullscreen="true" />
-                <Text>
-                  <MDXRenderer>{body}</MDXRenderer>
-                </Text>
-              </EpisodeDetails>
-            </EpisodeWrapper>
-          )
-        })}
+        <PodcastsWrapper>
+          <Title>Reimagine the Internet</Title>
+          <Description>
+            We're talking to some of the most exciting scholars, activists, journalists, and entrepreneurs in our field about what's wrong with social media and how to fix it.
+            <br />
+            <br />
+            Select an episode below to watch the interview. Be sure to subscribe to "Reimagine the Internet" on your favorite podcast app.
+          </Description>
+          {edges.map(({node}) => {
+            const { body, excerpt } = node
+            const { publicationDate, title, slug } = node.frontmatter
+            return(
+              <EpisodeWrapper>
+                <EpisodeDetails>
+                  <Link to={slug}>
+                    <PodcastTitle>{title}</PodcastTitle>
+                  </Link>
+                  <Text>
+                    <MDXRenderer>{body}</MDXRenderer>
+                  </Text>
+                </EpisodeDetails>
+              </EpisodeWrapper>
+            )
+          })}
+        </PodcastsWrapper>
       </Layout>
     </>
   )

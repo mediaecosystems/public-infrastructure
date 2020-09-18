@@ -4,6 +4,7 @@ import { graphql, Link } from "gatsby"
 import styled from "@emotion/styled"
 import { MDXRenderer } from "gatsby-plugin-mdx"
 import "typeface-clear-sans"
+import "typeface-lusitana"
 
 import Layout from "../components/layout"
 import Image from "../components/image"
@@ -29,13 +30,26 @@ const AboutText = styled.main`
 `
 
 const YoutubeWrapper = styled.div`
-  margin: 10vh auto;
-  grid-column: 7/13;
-  grid-row: 2;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%;
+`
+
+const IframeStyle = styled.iframe`
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
 `
 
 const IndexPage = ({ data }) => {
   const post = data.aboutText
+  const video = data.youtubeEmbedURL.edges
 
   return(
     <Layout>
@@ -43,7 +57,22 @@ const IndexPage = ({ data }) => {
       <IndexWrapper>
         <AboutText>
           <MDXRenderer>{post.body}</MDXRenderer>
-          <iframe width='100%' height='310' src="https://www.youtube.com/watch?v=KGXpNpS9aTY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />
+          {video.map(({ node }) => {
+            const { title, youtubeEmbedURL } = node.frontmatter
+            return(
+              <YoutubeWrapper>
+                <IframeStyle
+                  src={youtubeEmbedURL}
+                  title={title}
+                  frameborder="0"
+                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  webkitallowfullscreen="true"
+                  mozallowfullscreen="true"
+                  allowFullScreen
+                />
+              </YoutubeWrapper>
+            )
+          })}
         </AboutText>
       </IndexWrapper>
     </Layout>
@@ -56,6 +85,16 @@ export const indexQuery = graphql`
    query IndexQuery {
     aboutText: mdx(frontmatter: {title: {eq: "About Text"}}) {
       body
+    }
+    youtubeEmbedURL: allMdx(filter: {frontmatter: {type: {eq: "podcast-episode"}}}, sort: {fields: frontmatter___publicationDate, order: DESC}, limit: 1) {
+      edges {
+        node {
+          frontmatter {
+            title
+            youtubeEmbedURL
+          }
+        }
+      }
     }
   }
 `

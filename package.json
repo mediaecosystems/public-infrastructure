@@ -23,6 +23,7 @@
     "react-helmet": "^6.1.0",
     "typeface-clear-sans": "0.0.44",
     "typeface-karma": "0.0.71",
+    "typeface-lusitana": "0.0.72",
     "typeface-noto-sans": "0.0.72",
     "typeface-quando": "0.0.72"
   },

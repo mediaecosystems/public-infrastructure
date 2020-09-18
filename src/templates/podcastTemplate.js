@@ -10,45 +10,69 @@ import Image from "../components/image"
 import SEO from "../components/seo"
 
 const BodyWrapper = styled.div`
-
+  margin: 0 10vw;
 `
 
-const Title = styled.h2`
-
+const Title = styled.h1`
+  font-family: Lusitana;
 `
 
-const DateWrapper = styled.h3`
-
-`
-
-const EmbedWrapper = styled.div`
-
+const DateWrapper = styled.h4`
+  font-family: Lusitana;
+  line-height: 0;
 `
 
 const Text = styled.body`
+  font-family: Clear Sans;
+  margin: 10vh auto;
+`
 
+const YoutubeWrapper = styled.div`
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%;
+`
+
+const IframeStyle = styled.iframe`
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
 `
 
 export default function Template({ data : { mdx } }) {
-  const { frontmatter, body } = mdx
+  const { frontmatter, body, id } = mdx
+  const { publicationDate, slug, title, url, youtubeEmbedURL} = frontmatter
 
   const siteTitle = " | iDPI"
   const name = frontmatter.title.concat(siteTitle)
 
   return(
-    <>
-
+    <Layout>
       <BodyWrapper>
-        <Title>{frontmatter.title}</Title>
-        <DateWrapper>{frontmatter.publicationDate}</DateWrapper>
-        <EmbedWrapper>
-          <iframe src={frontmatter.url} width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-        </EmbedWrapper>
+        <Title>{title}</Title>
+        <DateWrapper>{publicationDate}</DateWrapper>
         <Text>
           <MDXRenderer>{body}</MDXRenderer>
         </Text>
+        <YoutubeWrapper>
+          <IframeStyle
+            src={youtubeEmbedURL}
+            title={title}
+            frameborder="0"
+            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+            webkitallowfullscreen="true"
+            mozallowfullscreen="true"
+            allowFullScreen
+          />
+        </YoutubeWrapper>
       </BodyWrapper>
-    </>
+    </Layout>
   )
 
 }
@@ -63,6 +87,7 @@ export const pageQuery = graphql`
         slug
         title
         url
+        youtubeEmbedURL
       }
     }
   }
