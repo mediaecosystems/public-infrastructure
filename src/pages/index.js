@@ -57,22 +57,6 @@ const IndexPage = ({ data }) => {
       <IndexWrapper>
         <AboutText>
           <MDXRenderer>{post.body}</MDXRenderer>
-          {video.map(({ node }) => {
-            const { title, youtubeEmbedURL } = node.frontmatter
-            return(
-              <YoutubeWrapper>
-                <IframeStyle
-                  src={youtubeEmbedURL}
-                  title={title}
-                  frameborder="0"
-                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                  webkitallowfullscreen="true"
-                  mozallowfullscreen="true"
-                  allowFullScreen
-                />
-              </YoutubeWrapper>
-            )
-          })}
         </AboutText>
       </IndexWrapper>
     </Layout>
@@ -85,16 +69,6 @@ export const indexQuery = graphql`
    query IndexQuery {
     aboutText: mdx(frontmatter: {title: {eq: "About Text"}}) {
       body
-    }
-    youtubeEmbedURL: allMdx(filter: {frontmatter: {type: {eq: "podcast-episode"}}}, sort: {fields: frontmatter___publicationDate, order: DESC}, limit: 1) {
-      edges {
-        node {
-          frontmatter {
-            title
-            youtubeEmbedURL
-          }
-        }
-      }
     }
   }
 `
