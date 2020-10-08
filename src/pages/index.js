@@ -49,7 +49,6 @@ const IframeStyle = styled.iframe`
 
 const IndexPage = ({ data }) => {
   const post = data.aboutText
-  const video = data.youtubeEmbedURL.edges
 
   return(
     <Layout>
