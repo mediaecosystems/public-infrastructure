@@ -49,7 +49,7 @@ module.exports = {
         description: `Reimagining the Internet is a production of the Institute for Digital Public Infrastructure at UMass Amherst, asking scholars, activists, journalists, and artists what is broken on the internet and how to fix it.`,
         summary: `Reimagining the Internet is a production of the Institute for Digital Public Infrastructure at UMass Amherst, asking scholars, activists, journalists, and artists what is broken on the internet and how to fix it.`,
         podcastType: `episodic`,
-        siteUrl: `https://publicinfrastructure.org/podcast`,
+        siteUrl: `https://publicinfrastructure.org`,
         imageUrl: `https://publicinfrastructure.org/static/89b3d75b82823ac2f95db6981db99b5e/ac3f1/red-podcast.png`,
         feedUrl: `https://publicinfrastructure.org/pocast-rss-feed.xml`,
         language: `en-us`,
