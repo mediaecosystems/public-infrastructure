@@ -60,7 +60,7 @@ module.exports = {
         managingEditor: `mpsugarman@gmail.com`,
         webMaster: `mpsugarman@gmail.com`,
         explicit: `no`,
-        publicationDate: `Jan 25, 2020 10:00:00 GMT`,
+        publicationDate: `Oct 20, 2020 10:00:00 GMT`,
         category1: `Technology`,
         category2: `Government`,
         category3: `News`,

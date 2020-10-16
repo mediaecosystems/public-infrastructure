@@ -16,7 +16,7 @@ url: https://archive.org/details/01-welcome-to-reimagining-the-internet
 embed: https://archive.org/embed/01-welcome-to-reimagining-the-internet
 youtubeEmbedURL: 'https://www.youtube.com/embed/KGXpNpS9aTY'
 duration: 1018
-size: 253700000
+size: 37000000
 explicit: false
 categories:
   - Technology
