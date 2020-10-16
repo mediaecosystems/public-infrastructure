@@ -48,7 +48,7 @@ const Podcast = ({ data }) => {
       <SEO title='Reimagine the Internet' />
       <Layout>
         <PodcastsWrapper>
-          <Title>Reimagine the Internet</Title>
+          <Title>Reimagining the Internet</Title>
           <Description>
             We're talking to some of the most exciting scholars, activists, journalists, and entrepreneurs in our field about what's wrong with social media and how to fix it.
             <br />
