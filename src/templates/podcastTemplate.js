@@ -47,7 +47,7 @@ const IframeStyle = styled.iframe`
 
 export default function Template({ data : { mdx } }) {
   const { frontmatter, body, id } = mdx
-  const { publicationDate, slug, title, url, youtubeEmbedURL} = frontmatter
+  const { publicationDate, slug, title, embed, youtubeEmbedURL} = frontmatter
 
   const siteTitle = " | iDPI"
   const name = frontmatter.title.concat(siteTitle)
@@ -60,6 +60,7 @@ export default function Template({ data : { mdx } }) {
         <Text>
           <MDXRenderer>{body}</MDXRenderer>
         </Text>
+        <iframe src={embed} frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen />
         <YoutubeWrapper>
           <IframeStyle
             src={youtubeEmbedURL}
@@ -86,7 +87,7 @@ export const pageQuery = graphql`
         publicationDate(formatString: "MMMM DD, YYYY")
         slug
         title
-        url
+        embed
         youtubeEmbedURL
       }
     }
