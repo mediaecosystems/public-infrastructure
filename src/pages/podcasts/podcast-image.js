@@ -14,7 +14,7 @@ export default PodcastImage
 
 export const query = graphql`
   query {
-    file(relativePath: { eq: "red-podcast.png" }) {
+    file(relativePath: { eq: "podcast-logo.png" }) {
       childImageSharp {
         fluid(maxWidth: 700) {
           ...GatsbyImageSharpFluid
