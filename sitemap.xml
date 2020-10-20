@@ -6,6 +6,6 @@
 <url> <loc>https://publicinfrastructure.org/podcast/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://publicinfrastructure.org/using-typescript/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://publicinfrastructure.org/podcasts/podcast-image/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://publicinfrastructure.org/info/aboutText/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://publicinfrastructure.org/podcasts/01-welcome-to-reimagining-the-internet/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://publicinfrastructure.org/info/aboutText/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
