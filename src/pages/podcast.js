@@ -40,11 +40,18 @@ const Text = styled.body`
 `
 
 const Podcast = ({ data }) => {
-  const { edges } = data.allMdx
+  const { edges } = data.posts
+  const image = data.image
+    ? data.image.childImageSharp.fluid
+    : null
 
   return(
     <>
-      <SEO title='Reimagine the Internet' />
+      <SEO
+        title='Reimagining the Internet'
+        image={image}
+        pathname='/podcast'
+      />
       <Layout>
         <PodcastsWrapper>
           <Title>Reimagining the Internet</Title>
@@ -81,7 +88,7 @@ export default Podcast
 
 export const blogListQuery = graphql`
   query blogListQuery {
-    allMdx(
+    posts: allMdx(
       filter: { frontmatter: { type: { eq: "podcast-episode" } } }
       sort: { fields: [frontmatter___publicationDate], order: DESC }
     ) {
@@ -98,5 +105,12 @@ export const blogListQuery = graphql`
         }
       }
     }
+    image: file(relativePath: {eq: "pod-social-card.png"}) {
+          childImageSharp {
+            fluid(maxWidth: 800) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
   }
 `
