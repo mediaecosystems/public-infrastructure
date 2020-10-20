@@ -24,4 +24,6 @@ categories:
   - Science
 ---
 
+Our RSS feed is still in the approval process for Apple Podcasts, so for now you can subscribe using the following link: https://publicinfrastructure.org/podcast-rss-feed.xml
+
 Our host Ethan Zuckerman introduces iDPI's new podcast by talking about the need for creating online spaces in the public interest, serving civic good instead of a corporate profit motive. Join us as we interview activists, scholars, journalists, and entrepreneurs reimagining the internet as we know it today.
