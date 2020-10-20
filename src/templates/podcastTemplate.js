@@ -62,13 +62,13 @@ export default function Template({ data : { mdx } }) {
   const siteTitle = " | iDPI"
   const name = frontmatter.title.concat(siteTitle)
 
-  const image = frontmatter.featuredImage.childImageSharp.fluid
+  const SEOimage = frontmatter.SEOimage.childImageSharp.resize
 
   return(
     <Layout>
       <SEO
         title={frontmatter.title}
-        image={image}
+        image={SEOimage}
         description={frontmatter.excerpt}
       />
       <BodyWrapper>
@@ -116,6 +116,15 @@ export const pageQuery = graphql`
           childImageSharp {
             fluid(maxWidth: 800) {
               ...GatsbyImageSharpFluid
+            }
+          }
+        }
+        SEOimage: featuredImage {
+          childImageSharp {
+            resize(width: 400) {
+              src
+              height
+              width
             }
           }
         }
