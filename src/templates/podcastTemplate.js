@@ -56,7 +56,7 @@ const EmbedStyled = styled.div`
 
 export default function Template({ data : { mdx } }) {
   const { frontmatter, body, id } = mdx
-  const { publicationDate, slug, title, embed, youtubeEmbedURL, featuredImage, excerpt, SEOimage} = frontmatter
+  const { publicationDate, slug, title, embed, youtubeEmbedURL, featuredImage, excerpt } = frontmatter
 
   const siteTitle = " | iDPI"
   const name = frontmatter.title.concat(siteTitle)
