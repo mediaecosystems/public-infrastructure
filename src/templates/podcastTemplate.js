@@ -61,7 +61,7 @@ export default function Template({ data : { mdx } }) {
   const siteTitle = " | iDPI"
   const name = frontmatter.title.concat(siteTitle)
 
-  const SEOimage = frontmatter.featuredImage.childImageSharp.resize
+  const SEOimage = frontmatter.featuredImage.childImageSharp.fluid
 
   return(
     <Layout>
