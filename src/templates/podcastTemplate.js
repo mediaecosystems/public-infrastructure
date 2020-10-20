@@ -1,11 +1,12 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 
 import Img from "gatsby-image"
 import { MDXRenderer } from "gatsby-plugin-mdx"
 import styled from "@emotion/styled"
 
 import Layout from "../components/layout"
+import Image from "../components/image"
 import SEO from "../components/seo"
 
 const BodyWrapper = styled.div`
@@ -56,20 +57,19 @@ const EmbedStyled = styled.div`
 
 export default function Template({ data : { mdx } }) {
   const { frontmatter, body, id } = mdx
-  const { publicationDate, slug, title, embed, youtubeEmbedURL, featuredImage, excerpt } = frontmatter
+  const { publicationDate, slug, title, embed, youtubeEmbedURL, featuredImage, excerpt} = frontmatter
 
   const siteTitle = " | iDPI"
   const name = frontmatter.title.concat(siteTitle)
 
-  const SEOimage = frontmatter.featuredImage.childImageSharp.fluid
+  const image = frontmatter.featuredImage.childImageSharp.fluid
 
   return(
     <Layout>
       <SEO
         title={frontmatter.title}
-        image={SEOimage}
+        image={image}
         description={frontmatter.excerpt}
-        pathname={frontmatter.slug}
       />
       <BodyWrapper>
         <Title>{title}</Title>
@@ -110,7 +110,6 @@ export const pageQuery = graphql`
         publicationDate(formatString: "MMMM DD, YYYY")
         slug
         title
-        excerpt
         embed
         youtubeEmbedURL
         featuredImage {
