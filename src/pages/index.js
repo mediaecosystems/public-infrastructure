@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql, Link } from "gatsby"
+import { graphql } from "gatsby"
 
 import styled from "@emotion/styled"
 import { MDXRenderer } from "gatsby-plugin-mdx"
@@ -7,7 +7,6 @@ import "typeface-clear-sans"
 import "typeface-lusitana"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
 import SEO from "../components/seo"
 
 const breakpoints = [600]
@@ -27,24 +26,6 @@ const AboutText = styled.main`
   ${mq[0]} {
     grid-column: 1/7;
   }
-`
-
-const YoutubeWrapper = styled.div`
-  position: relative;
-  overflow: hidden;
-  width: 100%;
-  padding-top: 56.25%;
-`
-
-const IframeStyle = styled.iframe`
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-  height: 100%;
-  border: none;
 `
 
 const IndexPage = ({ data }) => {
@@ -75,7 +56,7 @@ export const indexQuery = graphql`
     aboutText: mdx(frontmatter: {title: {eq: "About Text"}}) {
       body
     }
-    defaultImage: file(relativePath: {eq: "red-logo.png"}) {
+    defaultImage: file(relativePath: {eq: "main-social-card.png"}) {
       childImageSharp {
         fluid(maxWidth: 800) {
           ...GatsbyImageSharpFluid

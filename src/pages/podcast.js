@@ -7,7 +7,6 @@ import "typeface-clear-sans"
 import "typeface-lusitana"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
 import SEO from "../components/seo"
 
 const Title = styled.h1`
