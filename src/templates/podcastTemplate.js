@@ -70,6 +70,7 @@ export default function Template({ data : { mdx } }) {
         title={frontmatter.title}
         image={SEOimage}
         description={frontmatter.excerpt}
+        pathname={frontmatter.slug}
       />
       <BodyWrapper>
         <Title>{title}</Title>
