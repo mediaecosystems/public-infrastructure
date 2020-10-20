@@ -47,13 +47,21 @@ const IframeStyle = styled.iframe`
 
 export default function Template({ data : { mdx } }) {
   const { frontmatter, body, id } = mdx
-  const { publicationDate, slug, title, embed, youtubeEmbedURL} = frontmatter
+  const { publicationDate, slug, title, embed, youtubeEmbedURL, featuredImage, excerpt} = frontmatter
 
   const siteTitle = " | iDPI"
   const name = frontmatter.title.concat(siteTitle)
 
+  const image = frontmatter.featuredImage.childImageSharp.fluid
+
   return(
     <Layout>
+      <SEO
+        title={frontmatter.title}
+        image={image}
+        description={frontmatter.excerpt}
+        pathname={this.props.location.pathname}
+      />
       <BodyWrapper>
         <Title>{title}</Title>
         <DateWrapper>{publicationDate}</DateWrapper>
@@ -89,6 +97,13 @@ export const pageQuery = graphql`
         title
         embed
         youtubeEmbedURL
+        featuredImage {
+          childImageSharp {
+            fluid(maxWidth: 800) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }

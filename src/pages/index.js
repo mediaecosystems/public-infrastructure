@@ -49,10 +49,17 @@ const IframeStyle = styled.iframe`
 
 const IndexPage = ({ data }) => {
   const post = data.aboutText
+  const image = data.defaultImage
+    ? post.frontmatter.image.childImageSharp.fluid
+    : null
 
   return(
     <Layout>
-      <SEO title="Home" />
+      <SEO
+        title="The Institute for Digital Public Infrastructure"
+        image={image}
+        pathname={this.props.location.pathname}
+      />
       <IndexWrapper>
         <AboutText>
           <MDXRenderer>{post.body}</MDXRenderer>
@@ -68,6 +75,13 @@ export const indexQuery = graphql`
    query IndexQuery {
     aboutText: mdx(frontmatter: {title: {eq: "About Text"}}) {
       body
+    }
+    defaultImage: file(relativePath: {eq: "red-logo.png"}) {
+      childImageSharp {
+        fluid(maxWidth: 800) {
+          ...GatsbyImageSharpFluid
+        }
+      }
     }
   }
 `
