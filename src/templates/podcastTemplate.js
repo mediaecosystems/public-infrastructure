@@ -20,6 +20,12 @@ const Title = styled.h1`
 const DateWrapper = styled.h4`
   font-family: Lusitana;
   line-height: 0;
+  margin-bottom: 10vh;
+`
+
+const ImageWrapper = styled.div`
+  margin: 0 auto;
+  width: 50vw;
 `
 
 const Text = styled.body`
@@ -32,6 +38,7 @@ const YoutubeWrapper = styled.div`
   overflow: hidden;
   width: 100%;
   padding-top: 56.25%;
+  margin-top: -5vw;
 `
 
 const IframeStyle = styled.iframe`
@@ -64,7 +71,9 @@ export default function Template({ data : { mdx } }) {
       <BodyWrapper>
         <Title>{title}</Title>
         <DateWrapper>{publicationDate}</DateWrapper>
-        <Img fluid={frontmatter.featuredImage.childImageSharp.fluid}/>
+        <ImageWrapper>
+          <Img fluid={frontmatter.featuredImage.childImageSharp.fluid}/>
+        </ImageWrapper>
         <Text>
           <MDXRenderer>{body}</MDXRenderer>
         </Text>
