@@ -110,6 +110,7 @@ export const pageQuery = graphql`
         publicationDate(formatString: "MMMM DD, YYYY")
         slug
         title
+        excerpt
         embed
         youtubeEmbedURL
         featuredImage {
