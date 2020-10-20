@@ -38,7 +38,6 @@ const YoutubeWrapper = styled.div`
   overflow: hidden;
   width: 100%;
   padding-top: 56.25%;
-  margin-top: -5vw;
 `
 
 const IframeStyle = styled.iframe`
@@ -50,6 +49,10 @@ const IframeStyle = styled.iframe`
   width: 100%;
   height: 100%;
   border: none;
+`
+
+const EmbedStyled = styled.div`
+  margin-bottom: -5vw;
 `
 
 export default function Template({ data : { mdx } }) {
@@ -77,7 +80,10 @@ export default function Template({ data : { mdx } }) {
         <Text>
           <MDXRenderer>{body}</MDXRenderer>
         </Text>
-        <iframe src={embed} frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen />
+        <EmbedStyled>
+          <iframe src={embed} frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen />
+        </EmbedStyled>
+
         <YoutubeWrapper>
           <IframeStyle
             src={youtubeEmbedURL}
