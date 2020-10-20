@@ -17,4 +17,4 @@ The ideas that animate iDPI have been outlined in a set of academic papers and a
 
 Led by Ethan Zuckerman, the Institute will be building a team of researchers, programmers, policy experts and advocates over the next months and years. Our core projects include expanding [gobo.social](https://gobo.social/) to serve as a general purpose social media client, working with builders of distributed social networks and with existing communities to design novel online communities, and making the case — legally and conceptually —- for digital public infrastructures as a public good.
 
-Tune in to our interview series[ "Reimagining the Internet"](https://publicinfrastructure.org/podcast) on YouTube or your favorite podcast app, where we're talking to some of the most exciting scholars, activists, journalists, and entrepreneurs in our field about what's wrong with social media and how to fix it.
+Tune in to our interview series ["Reimagining the Internet"](/podcast) on YouTube or your favorite podcast app, where we're talking to some of the most exciting scholars, activists, journalists, and entrepreneurs in our field about what's wrong with social media and how to fix it.

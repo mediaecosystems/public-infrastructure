@@ -60,11 +60,11 @@ export default function Template({ data : { mdx } }) {
         title={frontmatter.title}
         image={image}
         description={frontmatter.excerpt}
-        pathname={this.props.location.pathname}
       />
       <BodyWrapper>
         <Title>{title}</Title>
         <DateWrapper>{publicationDate}</DateWrapper>
+        <Img fluid={frontmatter.featuredImage.childImageSharp.fluid}/>
         <Text>
           <MDXRenderer>{body}</MDXRenderer>
         </Text>

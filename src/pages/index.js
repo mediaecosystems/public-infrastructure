@@ -50,7 +50,7 @@ const IframeStyle = styled.iframe`
 const IndexPage = ({ data }) => {
   const post = data.aboutText
   const image = data.defaultImage
-    ? post.frontmatter.image.childImageSharp.fluid
+    ? data.defaultImage.childImageSharp.fluid
     : null
 
   return(
@@ -58,7 +58,6 @@ const IndexPage = ({ data }) => {
       <SEO
         title="The Institute for Digital Public Infrastructure"
         image={image}
-        pathname={this.props.location.pathname}
       />
       <IndexWrapper>
         <AboutText>
