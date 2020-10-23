@@ -75,7 +75,7 @@ export default function Template({ data : { mdx } }) {
         <Title>{title}</Title>
         <DateWrapper>{publicationDate}</DateWrapper>
         <ImageWrapper>
-          <Img fluid={frontmatter.featuredImage.childImageSharp.fluid}/>
+          <Img fluid={image}/>
         </ImageWrapper>
         <Text>
           <MDXRenderer>{body}</MDXRenderer>

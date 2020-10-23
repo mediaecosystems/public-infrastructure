@@ -8,6 +8,7 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -72,7 +73,6 @@ module.exports = {
         outputPath: `/podcast-rss-feed.xml`
       },
     },
-    `gatsby-plugin-sitemap`,
     `gatsby-plugin-offline`,
   ],
 }
