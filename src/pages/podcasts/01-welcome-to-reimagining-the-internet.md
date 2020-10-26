@@ -4,7 +4,7 @@ status: published
 slug: /podcast/01-welcome-to-reimagining-the-internet
 featuredImage: '../../images/pod-social-card.png'
 guid: publicinfrastructure.org/podcast/01-welcome-to-reimagining-the-internet
-title: 01. Welcome to Reimagining the Internet
+title: Welcome to Reimagining the Internet
 subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2020-10-20
 author: Institute for Digital Public Infrastructure

@@ -4,7 +4,7 @@ status: published
 slug: /podcast/02-talia-stroud
 featuredImage: '../../images/podcast-images/02-talia-stroud.png'
 guid: publicinfrastructure.org/podcast/02-talia-stroud
-title: 02. Talia Stroud, Civic Signals
+title: Talia Stroud, Civic Signals
 subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2020-10-27
 author: Institute for Digital Public Infrastructure
