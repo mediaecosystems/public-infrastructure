@@ -11,7 +11,7 @@ import colors from "./colors"
 const HeaderWrapper = styled.header`
   background: ${colors.offWhite};
   color: ${colors.uMass};
-  text-align: right;
+  text-align: left;
   margin: 15vh auto;
 `
 
@@ -27,7 +27,7 @@ const StyledLink = styled(Link)`
 
 const SubHeader = styled.h2`
   font-family: Quando;
-  text-align: right;
+  text-align: left;
   line-height: 0;
   font-size: x-large;
 `

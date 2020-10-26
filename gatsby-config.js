@@ -8,7 +8,6 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -43,6 +42,7 @@ module.exports = {
         icon: `src/images/manifest.png`, // This path is relative to the root of the site.
       },
     },
+    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-plugin-podcast-feed-mdx`,
       options: {
@@ -73,6 +73,5 @@ module.exports = {
         outputPath: `/podcast-rss-feed.xml`
       },
     },
-    `gatsby-plugin-offline`,
   ],
 }

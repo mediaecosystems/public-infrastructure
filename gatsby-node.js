@@ -12,6 +12,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       ) {
         edges {
           node {
+            id
             frontmatter {
               slug
             }
@@ -34,6 +35,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       component: podcastTemplate,
       context: {
         slug: node.frontmatter.slug,
+        id: node.id,
       },
     })
   })

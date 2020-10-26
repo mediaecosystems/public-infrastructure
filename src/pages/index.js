@@ -38,7 +38,6 @@ const IndexPage = ({ data }) => {
     <Layout>
       <SEO
         title="The Institute for Digital Public Infrastructure"
-        image={image}
       />
       <IndexWrapper>
         <AboutText>

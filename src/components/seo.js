@@ -4,7 +4,7 @@ import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
 function SEO({ description, lang, meta, image: metaImage, title, pathname }) {
-  const { site } = useStaticQuery(
+  const { site, file } = useStaticQuery(
     graphql`
       query {
         site {
@@ -16,9 +16,20 @@ function SEO({ description, lang, meta, image: metaImage, title, pathname }) {
             siteUrl
           }
         }
+        file(relativePath: {eq: "main-social-card.png"}) {
+          childImageSharp {
+            resize(width: 1000) {
+              src
+              height
+              width
+            }
+          }
+        }
       }
     `
   )
+
+  metaImage = metaImage || file.childImageSharp.resize
 
   const metaDescription = description || site.siteMetadata.description
   const image =
@@ -37,10 +48,10 @@ function SEO({ description, lang, meta, image: metaImage, title, pathname }) {
       link={
         canonical
           ? [
-              {
+            {
                 rel: "canonical",
                 href: canonical,
-              },
+            },
             ]
           : []
       }
@@ -77,23 +88,23 @@ function SEO({ description, lang, meta, image: metaImage, title, pathname }) {
           name: `twitter:description`,
           content: metaDescription,
         },
-      ]
+        ]
         .concat(
           metaImage
             ? [
-                {
+              {
                   property: "og:image",
                   content: image,
-                },
-                {
+              },
+              {
                   property: "og:image:width",
                   content: metaImage.width,
-                },
-                {
+              },
+              {
                   property: "og:image:height",
                   content: metaImage.height,
-                },
-                {
+              },
+              {
                   name: "twitter:card",
                   content: "summary_large_image",
                 },

@@ -72,11 +72,11 @@ export default function Template({ data : { mdx } }) {
         description={frontmatter.excerpt}
       />
       <BodyWrapper>
+        <Title>
+          <Link to="/podcast">Reimagining the Internet</Link>
+        </Title>
         <Title>{title}</Title>
         <DateWrapper>{publicationDate}</DateWrapper>
-        <ImageWrapper>
-          <Img fluid={image}/>
-        </ImageWrapper>
         <Text>
           <MDXRenderer>{body}</MDXRenderer>
         </Text>
