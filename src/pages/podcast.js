@@ -63,7 +63,7 @@ const Podcast = ({ data }) => {
           </Description>
           {edges.map(({node}) => {
             const { body, excerpt } = node
-            const { publicationDate, title, slug } = node.frontmatter
+            const { publicationDate, title, slug, excerpt } = node.frontmatter
             return(
               <EpisodeWrapper>
                 <EpisodeDetails>
@@ -71,7 +71,7 @@ const Podcast = ({ data }) => {
                     <PodcastTitle>{title}</PodcastTitle>
                   </Link>
                   <Text>
-                    <MDXRenderer>{body}</MDXRenderer>
+                    {excerpt}
                   </Text>
                 </EpisodeDetails>
               </EpisodeWrapper>
@@ -94,7 +94,7 @@ export const blogListQuery = graphql`
     ) {
       edges {
         node {
-          body(pruneLength: 200)
+          body
           excerpt(pruneLength: 200)
           frontmatter {
             publicationDate
