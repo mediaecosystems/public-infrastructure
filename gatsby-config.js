@@ -73,5 +73,6 @@ module.exports = {
         outputPath: `/podcast-rss-feed.xml`
       },
     },
+    `gatsby-plugin-emotion`,
   ],
 }
