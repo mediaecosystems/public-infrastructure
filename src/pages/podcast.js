@@ -62,8 +62,8 @@ const Podcast = ({ data }) => {
             Select an episode below to watch the interview. Be sure to subscribe to "Reimagine the Internet" on your favorite podcast app.
           </Description>
           {edges.map(({node}) => {
-            const { body } = node
-            const { publicationDate, title, slug, excerpt } = node.frontmatter
+            const { body, excerpt } = node
+            const { publicationDate, title, slug } = node.frontmatter
             return(
               <EpisodeWrapper>
                 <EpisodeDetails>
@@ -71,7 +71,7 @@ const Podcast = ({ data }) => {
                     <PodcastTitle>{title}</PodcastTitle>
                   </Link>
                   <Text>
-                    {excerpt}
+                    <MDXRenderer>{excerpt}</MDXRenderer>
                   </Text>
                 </EpisodeDetails>
               </EpisodeWrapper>
@@ -98,7 +98,6 @@ export const blogListQuery = graphql`
           excerpt(pruneLength: 200)
           frontmatter {
             publicationDate
-            excerpt
             title
             slug
             url
