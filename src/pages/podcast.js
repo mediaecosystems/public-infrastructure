@@ -71,7 +71,7 @@ const Podcast = ({ data }) => {
                     <PodcastTitle>{title}</PodcastTitle>
                   </Link>
                   <Text>
-                    <MDXRenderer>{excerpt}</MDXRenderer>
+                    {excerpt}
                   </Text>
                 </EpisodeDetails>
               </EpisodeWrapper>
@@ -95,7 +95,7 @@ export const blogListQuery = graphql`
       edges {
         node {
           body
-          excerpt(pruneLength: 200)
+          excerpt(pruneLength: 300)
           frontmatter {
             publicationDate
             title
