@@ -98,6 +98,7 @@ export const blogListQuery = graphql`
           excerpt(pruneLength: 200)
           frontmatter {
             publicationDate
+            excerpt
             title
             slug
             url
