@@ -62,7 +62,7 @@ const Podcast = ({ data }) => {
             Select an episode below to watch the interview. Be sure to subscribe to "Reimagine the Internet" on your favorite podcast app.
           </Description>
           {edges.map(({node}) => {
-            const { body, excerpt } = node
+            const { body } = node
             const { publicationDate, title, slug, excerpt } = node.frontmatter
             return(
               <EpisodeWrapper>
