@@ -94,7 +94,7 @@ export const blogListQuery = graphql`
     ) {
       edges {
         node {
-          body
+          body(pruneLength: 200)
           excerpt(pruneLength: 200)
           frontmatter {
             publicationDate

@@ -77,9 +77,7 @@ export default function Template({ data : { mdx } }) {
         </Title>
         <Title>{title}</Title>
         <DateWrapper>{publicationDate}</DateWrapper>
-        <Text>
-          <MDXRenderer>{body}</MDXRenderer>
-        </Text>
+
         <EmbedStyled>
           <iframe src={embed} frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen />
         </EmbedStyled>
@@ -95,6 +93,9 @@ export default function Template({ data : { mdx } }) {
             allowFullScreen
           />
         </YoutubeWrapper>
+        <Text>
+          <MDXRenderer>{body}</MDXRenderer>
+        </Text>
       </BodyWrapper>
     </Layout>
   )
