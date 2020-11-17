@@ -11,7 +11,8 @@ author: Institute for Digital Public Infrastructure
 season: 1
 episodeNumber: 5
 episodeType: full
-excerpt: We welcome Kevin Roose to the podcast — tech reporter for The New York Times and thorn in the side of Facebook — to talk to us about how platforms' laser focus on growth resulted in building a misinformation ecosystems and algorithms that they don't really understand. Kevin and Ethan talk about what's really the healthiest social media platform of them all, and what Wall Street-style regulation might look like for major platforms. </br>
+excerpt: We welcome Kevin Roose to the podcast — tech reporter for The New York Times and thorn in the side of Facebook — to talk to us about how platforms' laser focus on growth resulted in building a misinformation ecosystems and algorithms that they don't really understand. Kevin and Ethan talk about what's really the healthiest social media platform of them all, and what Wall Street-style regulation might look like for major platforms.
+
 Visit the episode page for show notes and a full transcription of the interview.
 url: 'https://archive.org/download/05.-kevin-roose-the-new-york-times/05.%20Kevin%20Roose%2C%20The%20New%20York%20Times.aif.mp3'
 embed: 'https://archive.org/embed/05.-kevin-roose-the-new-york-times'
