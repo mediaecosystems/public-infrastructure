@@ -6,7 +6,7 @@ featuredImage: '../../images/podcast-images/02-talia-stroud.png'
 guid: publicinfrastructure.org/podcast/02-talia-stroud
 title: Talia Stroud, Civic Signals
 subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
-publicationDate: 2020-10-27
+publicationDate: '2020-10-27 14:00:00 GMT'
 author: Institute for Digital Public Infrastructure
 season: 1
 episodeNumber: 2
@@ -153,5 +153,3 @@ So in terms of learning more about it, Eli has a TED Talk that is a fantastic pl
 *Ethan Zuckerman*:
 
 *Talis Stroud*, Civic Signals, and University of Texas at Austin. Just a pleasure to catch up with you and hear what's going on. I hope more people will check out this project. I think it's one of the most important pieces of research being done right now to sort of understand what signals we would have to monitor to have a really positive vision for what's going on in the future with social media. Thank you so much for being with us.
-
- 

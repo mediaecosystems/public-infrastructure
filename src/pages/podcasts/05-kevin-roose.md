@@ -6,7 +6,7 @@ featuredImage: '../../images/podcast-images/05-kevin-roose.png'
 guid: publicinfrastructure.org/podcast/05-kevin-roose
 title: Kevin Roose, The New York Times
 subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
-publicationDate: 2020-11-17
+publicationDate: '2020-11-17 14:00:00 GMT'
 author: Institute for Digital Public Infrastructure
 season: 1
 episodeNumber: 5
@@ -193,5 +193,3 @@ Thanks man.
 *Kevin Roose*:
 
 Thank you.
-
- 
