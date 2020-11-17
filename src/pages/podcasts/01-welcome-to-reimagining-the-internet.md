@@ -6,7 +6,7 @@ featuredImage: '../../images/pod-social-card.png'
 guid: publicinfrastructure.org/podcast/01-welcome-to-reimagining-the-internet
 title: Welcome to Reimagining the Internet
 subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
-publicationDate: '2020-10-20 14:00:00 GMT'
+publicationDate: 2020-10-20
 author: Institute for Digital Public Infrastructure
 season: 1
 episodeNumber: 1

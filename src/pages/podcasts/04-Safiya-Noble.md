@@ -6,7 +6,7 @@ featuredImage: '../../images/podcast-images/04-safiya-noble.png'
 guid: publicinfrastructure.org/podcast/04-safiya-noble
 title: Safiya Noble, UCLA Center for Critial Internet Inquiry
 subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
-publicationDate: '2020-11-10 14:00:00 GMT'
+publicationDate: 2020-11-10
 author: Institute for Digital Public Infrastructure
 season: 1
 episodeNumber: 4

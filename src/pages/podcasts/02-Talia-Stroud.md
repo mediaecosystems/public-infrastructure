@@ -6,7 +6,7 @@ featuredImage: '../../images/podcast-images/02-talia-stroud.png'
 guid: publicinfrastructure.org/podcast/02-talia-stroud
 title: Talia Stroud, Civic Signals
 subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
-publicationDate: '2020-10-27 14:00:00 GMT'
+publicationDate: 2020-10-27
 author: Institute for Digital Public Infrastructure
 season: 1
 episodeNumber: 2
