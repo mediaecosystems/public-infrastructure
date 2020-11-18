@@ -13,7 +13,7 @@ The ideas that animate iDPI have been outlined in a set of academic papers and a
 
 *[The Case for Digital Public Infrastructure](https://knightcolumbia.org/content/the-case-for-digital-public-infrastructure)*
 
-*What is Digital Public Infrastructure (to come)*
+[*What is Digital Public Infrastructure?*](https://www.journalismliberty.org/publications/what-is-digital-public-infrastructure)
 
 Led by Ethan Zuckerman, the Institute will be building a team of researchers, programmers, policy experts and advocates over the next months and years. Our core projects include expanding [gobo.social](https://gobo.social/) to serve as a general purpose social media client, working with builders of distributed social networks and with existing communities to design novel online communities, and making the case — legally and conceptually —- for digital public infrastructures as a public good.
 
