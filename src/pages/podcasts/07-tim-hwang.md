@@ -6,7 +6,7 @@ featuredImage: '../../images/podcast-images/07-tim-hwang.png'
 guid: publicinfrastructure.org/podcast/07-tim-hwang
 title: Tim Hwang, Subprime Attention Crisis
 subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
-publicationDate: 2020-12-2
+publicationDate: 2020-12-02
 author: Institute for Digital Public Infrastructure
 season: 1
 episodeNumber: 7
