@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://publicinfrastructure.org/podcast/07-tim-hwang</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://publicinfrastructure.org/podcast/06-kate-crawford</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://publicinfrastructure.org/podcast/05-kevin-roose</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://publicinfrastructure.org/podcast/04-safiya-noble</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -12,9 +13,10 @@
 <url> <loc>https://publicinfrastructure.org/podcasts/podcast-image/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://publicinfrastructure.org/info/aboutText/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://publicinfrastructure.org/podcasts/01-welcome-to-reimagining-the-internet/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://publicinfrastructure.org/podcasts/02-Talia-Stroud/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://publicinfrastructure.org/podcasts/03-Evan-Henshaw-Plath/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://publicinfrastructure.org/podcasts/02-Talia-Stroud/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://publicinfrastructure.org/podcasts/04-Safiya-Noble/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://publicinfrastructure.org/podcasts/05-kevin-roose/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://publicinfrastructure.org/podcasts/07-tim-hwang/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://publicinfrastructure.org/podcasts/06-kate-crawford/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
