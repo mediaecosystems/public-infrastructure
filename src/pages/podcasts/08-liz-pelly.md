@@ -24,7 +24,7 @@ categories:
   - Science
 ---
 
-Critic and music journalist [Liz Pelly](https://lizpelly.com/) joins us for a fascinating interview about why the Spotify model is so bad for musicians and what that might mean for podcasters. Liz is a veteran of the DIY music community as a member of the influential [Silent Barn](http://silentbarn.org/) collective in Brooklyn, and a stalwart of independent journalism with her own publication The Baffler and pieces published The New York Times, NPR, Rolling Stone, and Pitchfork.
+Critic and music journalist [Liz Pelly](https://lizpelly.com/) joins us for a fascinating interview about why the Spotify model is so bad for musicians and what that might mean for podcasters. Liz is a veteran of the DIY music community as a member of the influential [Silent Barn](http://silentbarn.org/) collective in Brooklyn, and a stalwart of independent journalism with her own publication The Media and pieces published The New York Times, NPR, Rolling Stone, and Pitchfork.
 
 Read Liz Pelly’s eye-opening [series for The Baffler](https://thebaffler.com/authors/liz-pelly) about Spotify. This podcast was recorded the week after she published her article, ["Podcast Overlords: Spotify Only Works for the Stars."](https://thebaffler.com/downstream/podcast-overlords-pelly)
 
