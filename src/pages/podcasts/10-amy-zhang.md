@@ -6,7 +6,7 @@ featuredImage: '../../images/podcast-images/10-amy-zhang.png'
 guid: publicinfrastructure.org/podcast/10-amy-zhang
 title: Amy Zhang, University of Washington
 subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
-publicationDate: 2020-01-12
+publicationDate: 2020-01-13
 author: Institute for Digital Public Infrastructure
 season: 1
 episodeNumber: 10
