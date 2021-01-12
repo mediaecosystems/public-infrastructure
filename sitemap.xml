@@ -9,6 +9,7 @@
 <url> <loc>https://publicinfrastructure.org/podcast/03-evan-henshaw-plath</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://publicinfrastructure.org/podcast/02-talia-stroud</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://publicinfrastructure.org/podcast/01-welcome-to-reimagining-the-internet</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://publicinfrastructure.org/podcast/10-amy-zhang</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://publicinfrastructure.org/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://publicinfrastructure.org/podcast/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://publicinfrastructure.org/using-typescript/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -20,7 +21,8 @@
 <url> <loc>https://publicinfrastructure.org/podcasts/04-Safiya-Noble/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://publicinfrastructure.org/podcasts/05-kevin-roose/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://publicinfrastructure.org/podcasts/06-kate-crawford/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://publicinfrastructure.org/podcasts/07-tim-hwang/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://publicinfrastructure.org/podcasts/08-liz-pelly/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://publicinfrastructure.org/podcasts/07-tim-hwang/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://publicinfrastructure.org/podcasts/09-holiday-special/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://publicinfrastructure.org/podcasts/10-amy-zhang/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
