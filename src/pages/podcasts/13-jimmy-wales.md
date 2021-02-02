@@ -2,7 +2,7 @@
 type: podcast-episode
 status: published
 slug: /podcast/13-jimmy-wales
-featuredImage: '../../images/podcast-images/13-jimmy-wales'
+featuredImage: '../../images/podcast-images/13-jimmy-wales.png'
 guid: publicinfrastructure.org/podcast/13-jimmy-wales
 title: Jimmy Wales, Wikimedia Foundation
 subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
