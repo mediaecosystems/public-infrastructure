@@ -4,7 +4,7 @@ status: published
 slug: /podcast/17-davi-ottenheimer
 featuredImage: '../../images/podcast-images/17-davi-ottenheimer.png'
 guid: publicinfrastructure.org/podcast/17-davi-ottenheimer
-title: Elizabeth Hansen-Shapiro
+title: Davi Ottenheimer, Inrupt and SOLID
 subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2021-03-17
 author: Institute for Digital Public Infrastructure
