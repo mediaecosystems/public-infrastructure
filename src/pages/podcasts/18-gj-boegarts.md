@@ -3,7 +3,7 @@ type: podcast-episode
 status: published
 slug: /podcast/18-gj-boegarts
 featuredImage: '../../images/podcast-images/18-gj-bogaerts.png'
-guid: publicinfrastructure.org/podcast/18-gj-boegaerts
+guid: publicinfrastructure.org/podcast/18-gj-bogaerts
 title: GJ Bogaerts, Public Spaces 
 subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2021-03-24
