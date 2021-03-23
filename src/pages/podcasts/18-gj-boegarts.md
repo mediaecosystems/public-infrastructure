@@ -1,7 +1,7 @@
 ---
 type: podcast-episode
 status: published
-slug: /podcast/18-gj-boegarts
+slug: /podcast/18-gj-bogaerts
 featuredImage: '../../images/podcast-images/18-gj-bogaerts.png'
 guid: publicinfrastructure.org/podcast/18-gj-bogaerts
 title: GJ Bogaerts, Public Spaces 
@@ -14,7 +14,7 @@ episodeType: full
 excerpt: We’re thrilled to welcome GJ Bogaerts, head of new media at Dutch public broadcaster VBRO and director of the Public Spaces coalition, which is a partnership of public broadcasters, arts institutions and other public service institutions in the Netherlands. GJ tells us how he hopes a mix of government support and institutional independence will help ween Europeans off of private corporate platforms to create an internet that is safe and private for users, while safe from private interests.
 url: https://archive.org/download/reimagining-the-internet-18.-gj-boegarts-public-spaces/Reimagining%20the%20Internet%2018.%20GJ%20Boegarts%2C%20Public%20Spaces.mp3'
 embed: 'https://archive.org/embed/reimagining-the-internet-18.-gj-boegarts-public-spaces'
-youtubeEmbedURL: 'https://www.youtube.com/embed/KCcVbp7T3EQ'
+youtubeEmbedURL: 'https://www.youtube.com/embed/46KBYsC3reU'
 duration: 2057
 size: 78500000
 explicit: false
