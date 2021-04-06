@@ -14,8 +14,8 @@ episodeType: full
 excerpt: Lola Hunt and Eliza Sorensen join the podcast to tell us about their crucial work to build an internet safe for sex workers. Through their company Assembly Four, Lola and Eliza maintain Switter, a Mastodon fork serving sex workers who were deplatformed from other sites, and Tryst, an advertising platform for sex work. In this special long-form episode, we talk about the fallout from America’s FOSTA/SESTA legislation, the global fight for sex worker protection, and what norms need to shift to have honest, open conversations about sex, consent, and abuse.
 url: 'https://archive.org/download/reimagining-the-internet-20.-lola-hunt-eliza-sorenson-assembly-four/Reimagining%20the%20Internet%2020.%20Lola%20Hunt%20%26%20Eliza%20Sorensen%2C%20Assembly%20Four.mp3'
 embed: 'https://archive.org/embed/reimagining-the-internet-20.-lola-hunt-eliza-sorenson-assembly-four'
-youtubeEmbedURL: 'https://www.youtube.com/embed/Y132BhPCjNs'
-duration: 3207
+youtubeEmbedURL: 'https://www.youtube.com/embed/uk81iSZbwQU'
+duration: 3155
 size: 123300000
 explicit: false
 categories:
@@ -279,10 +279,6 @@ I think one of the primary things is knowing that you have sex work in a semi le
 *Lola Hunt:*
 
 Add to it a press conference.
-
-*Eliza Sorensen:*
-
-So I think legally, finding those safe harbors where data protection is case or a lot of the European nations. Australia is getting sadly, worse and worse In terms of legislation. We're currently fighting something called the online safety bill, which will now become the online Safety Act as it appears it will pass. This means that the eSafety officer and Commissioner will be able to send a notice to platforms that they must take content, regardless of what it is down within 24 hours. There is a three strike rule essentially, that if you don't comply within 24 hours or you don't do that bidding. That there is criminal liability or we could risk losing our Australian business number which allows us to operate.
 
 *Ethan Zuckerman:*
 
