@@ -16,7 +16,7 @@ url: 'https://archive.org/download/reimagining-the-internet-20.-lola-hunt-eliza-
 embed: 'https://archive.org/embed/reimagining-the-internet-20.-lola-hunt-eliza-sorenson-assembly-four'
 youtubeEmbedURL: 'https://www.youtube.com/embed/uk81iSZbwQU'
 duration: 3155
-size: 123300000
+size: 120400000
 explicit: false
 categories:
   - Technology
