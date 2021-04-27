@@ -5,9 +5,9 @@ slug: /podcast/12-wendy-liu
 featuredImage: '../../images/podcast-images/12-wendy-liu.png'
 guid: publicinfrastructure.org/podcast/12-wendy-liu
 title: Wendy Liu, Abolish Silicon Valley
-subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
+subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2021-01-27
-author: Institute for Digital Public Infrastructure
+author: Initiative for Digital Public Infrastructure
 season: 1
 episodeNumber: 12
 episodeType: full

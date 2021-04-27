@@ -5,9 +5,9 @@ slug: /podcast/11-trebor-scholz
 featuredImage: '../../images/podcast-images/11-trebor-scholz.png'
 guid: publicinfrastructure.org/podcast/11-trebor-scholz
 title: Trebor Scholz, Platform Coopertivism Consortium
-subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
+subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2021-01-20
-author: Institute for Digital Public Infrastructure
+author: Initiative for Digital Public Infrastructure
 season: 1
 episodeNumber: 11
 episodeType: full
@@ -41,7 +41,7 @@ In addition to the [New School’s Platform Cooperatives Now! class](https://pla
 
 *Ethan Zuckerman:*
 
-Welcome everybody to Reimagining the Internet. We've got a conversation today with Trebor Scholz. Trebor is a scholar activist. He is a professor at The New School in New York city. He's the founding director of the Platform Co-op Consortium and the Research Institute for the cooperative digital economy at The New School. He has what must be one of the most busy years off Ether, where he is a fellow at the Open Society Foundation at the Harvard Berkman Klein Center and the Berggruen Institute. And the reason we're talking with Trebor is that he's someone who has coined the idea of Platform cooperativism, he's been talking about this very important and very helpful idea since 2014. And I think it's one of the ideas that we're really going to want to wrestle with as we think about these questions of the future of the internet. Trebor, it's so good to have you here.
+Welcome everybody to Reimagining the Internet. We've got a conversation today with Trebor Scholz. Trebor is a scholar activist. He is a professor at The New School in New York city. He's the founding director of the Platform Co-op Consortium and the Research Initiative for the cooperative digital economy at The New School. He has what must be one of the most busy years off Ether, where he is a fellow at the Open Society Foundation at the Harvard Berkman Klein Center and the Berggruen Initiative. And the reason we're talking with Trebor is that he's someone who has coined the idea of Platform cooperativism, he's been talking about this very important and very helpful idea since 2014. And I think it's one of the ideas that we're really going to want to wrestle with as we think about these questions of the future of the internet. Trebor, it's so good to have you here.
 
 *Trebor Scholz:*
 
@@ -53,7 +53,7 @@ So we, we have a format that some people fight and that some people embrace. And
 
 *Trebor Scholz:*
 
-Well, I think I would probably start by framing the question a bit more broadly focusing on platform capitalism at large. So emphasizing that we really can't just look at the internet in isolation. And yeah, so a bit of background. So my activism research and intellectual community building has focused on the way people work online for a long time, longer than I care to remember. So in 2014, I suggested bringing the worker co-op model to the digital economy, asking what it would be like if you had an Uber that would be owned by its drivers on Airbnb, that would be owned by its residents. And that had an enormous resonance. And two books followed and many conferences at The New School. Now, we have a research institute that focuses on the cooperative digital economy. Just welcomed seven new PhD students that focus on that.
+Well, I think I would probably start by framing the question a bit more broadly focusing on platform capitalism at large. So emphasizing that we really can't just look at the internet in isolation. And yeah, so a bit of background. So my activism research and intellectual community building has focused on the way people work online for a long time, longer than I care to remember. So in 2014, I suggested bringing the worker co-op model to the digital economy, asking what it would be like if you had an Uber that would be owned by its drivers on Airbnb, that would be owned by its residents. And that had an enormous resonance. And two books followed and many conferences at The New School. Now, we have a research Initiative that focuses on the cooperative digital economy. Just welcomed seven new PhD students that focus on that.
 
 And several political parties have made that platform cooperative isn't part of their political platform, like the Social Democrats in Germany, the Labour Party in the UK, under the previous and current leadership, and also the legislative assembly in Kerala, India. So we have some 500 projects in 47 countries right now, ranging in sectors from domestic care, to home delivery, agriculture. Also some work in short-term rentals and e-hailing and also social media. So there, I think it's sort of a split screen between digital labor practices and also cooperative internet infrastructure. And I think Ethan, I think this is just such a... While this, we just talked about this a minute ago, has not been an easy year, but this is really a truly cooperative moment. On the one hand, there's this atmosphere of emergency, that's used to push a politics of austerity.
 
@@ -89,7 +89,7 @@ Can you talk a little bit about how platform cooperatives are working in terms o
 
 *Trebor Scholz:*
 
-Yeah, absolutely. So there basically is a movement, but to create a decentralized peer to peer services. There's a lot of experimentation with co-operative data ownership. There are projects like MyData in Switzerland, which created co-operative patient data ownership, which is then where the patient has the opportunity to release the data to their doctor for free, but perhaps to a for-profit research institute at a pay, as at a fee, which is then donated to public research. So it's not that anybody makes money from that. There's an expectation with data trusts. So I wrote a research paper for Sidewalk Labs together with Jutta Treviranus from the Inclusive Research Design Center in Toronto, where we proposed the cooperative data trust for the Sidewalk Labs project, which were essentially allow the people, the residents of this area, to govern the data that are collected on them, and to decide in the first place, much along the lines of the work we saw in Barcelona around data sovereignty, to really that people can also decide which data are actually collected in the first place.
+Yeah, absolutely. So there basically is a movement, but to create a decentralized peer to peer services. There's a lot of experimentation with co-operative data ownership. There are projects like MyData in Switzerland, which created co-operative patient data ownership, which is then where the patient has the opportunity to release the data to their doctor for free, but perhaps to a for-profit research Initiative at a pay, as at a fee, which is then donated to public research. So it's not that anybody makes money from that. There's an expectation with data trusts. So I wrote a research paper for Sidewalk Labs together with Jutta Treviranus from the Inclusive Research Design Center in Toronto, where we proposed the cooperative data trust for the Sidewalk Labs project, which were essentially allow the people, the residents of this area, to govern the data that are collected on them, and to decide in the first place, much along the lines of the work we saw in Barcelona around data sovereignty, to really that people can also decide which data are actually collected in the first place.
 
 *Ethan Zuckerman:*
 

@@ -5,9 +5,9 @@ slug: /podcast/18-gj-bogaerts
 featuredImage: '../../images/podcast-images/18-gj-bogaerts.png'
 guid: publicinfrastructure.org/podcast/18-gj-bogaerts
 title: GJ Bogaerts, Public Spaces 
-subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
+subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2021-03-24
-author: Institute for Digital Public Infrastructure
+author: Initiative for Digital Public Infrastructure
 season: 1
 episodeNumber: 18
 episodeType: full
@@ -30,7 +30,7 @@ We’re thrilled to welcome GJ Bogaerts, head of new media at Dutch public broad
 
 *Ethan Zuckerman:*
 
-Hey everybody. Welcome back to Re-Imagining The Internet. I'm your host, Ethan Zuckerman, at the Institute for Digital Public Infrastructure at the University of Massachusetts at Amherst. I am here with my friend here, John Boegarts, who is the head of digital media at VPRO, which is one of the Netherlands' many public broadcasters. Significant for us today, he's also the chair of the Public Spaces Coalition. It's a remarkable project that's hosted at publicspaces.net. We're going to talk about this very particularly Dutch approach to thinking about re-imagining the internet. Here, John. Welcome. It's so good to have you here.
+Hey everybody. Welcome back to Re-Imagining The Internet. I'm your host, Ethan Zuckerman, at the Initiative for Digital Public Infrastructure at the University of Massachusetts at Amherst. I am here with my friend here, John Boegarts, who is the head of digital media at VPRO, which is one of the Netherlands' many public broadcasters. Significant for us today, he's also the chair of the Public Spaces Coalition. It's a remarkable project that's hosted at publicspaces.net. We're going to talk about this very particularly Dutch approach to thinking about re-imagining the internet. Here, John. Welcome. It's so good to have you here.
 
 *GJ Bogaerts:*
 

@@ -5,9 +5,9 @@ slug: /podcast/04-safiya-noble
 featuredImage: '../../images/podcast-images/04-safiya-noble.png'
 guid: publicinfrastructure.org/podcast/04-safiya-noble
 title: Safiya Noble, UCLA Center for Critial Internet Inquiry
-subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
+subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2020-11-10
-author: Institute for Digital Public Infrastructure
+author: Initiative for Digital Public Infrastructure
 season: 1
 episodeNumber: 4
 episodeType: full
@@ -30,7 +30,7 @@ categories:
 
 *Ethan Zuckerman*:
 
-Hey everybody, this is *Ethan Zuckerman* from the Institute for Digital Public Infrastructure. I'm back with this ongoing conversation series on Imagining the Internet. I'm thrilled to have with us today *Safiya Noble*, who is the associate professor of UCLA in the Department of Information Studies. She's also the co-director of the UCLA Center for Critical Internet Inquiry. I know her and you may know her through her really excellent book, Algorithms of Oppression, How Search Engines Reinforce Racism. She's really one of the most thoughtful people out there about how the systems that we use in social media can have indirect or direct harms on us in terms of racism and discrimination.
+Hey everybody, this is *Ethan Zuckerman* from the Initiative for Digital Public Infrastructure. I'm back with this ongoing conversation series on Imagining the Internet. I'm thrilled to have with us today *Safiya Noble*, who is the associate professor of UCLA in the Department of Information Studies. She's also the co-director of the UCLA Center for Critical Internet Inquiry. I know her and you may know her through her really excellent book, Algorithms of Oppression, How Search Engines Reinforce Racism. She's really one of the most thoughtful people out there about how the systems that we use in social media can have indirect or direct harms on us in terms of racism and discrimination.
 
 *Ethan Zuckerman*:
 

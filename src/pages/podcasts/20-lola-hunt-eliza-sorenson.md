@@ -5,9 +5,9 @@ slug: /podcast/20-lola-hunt-eliza-sorenson
 featuredImage: '../../images/podcast-images/20-lola-hunt-eliza-sorenson.png'
 guid: publicinfrastructure.org/podcast/20-lola-hunt-eliza-sorenson
 title: Lola Hunt & Eliza Sorensen, Assembly Four
-subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
+subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2021-04-07
-author: Institute for Digital Public Infrastructure
+author: Initiative for Digital Public Infrastructure
 season: 1
 episodeNumber: 20
 episodeType: full

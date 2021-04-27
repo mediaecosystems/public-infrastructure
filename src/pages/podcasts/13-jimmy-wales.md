@@ -5,9 +5,9 @@ slug: /podcast/13-jimmy-wales
 featuredImage: '../../images/podcast-images/13-jimmy-wales.png'
 guid: publicinfrastructure.org/podcast/13-jimmy-wales
 title: Jimmy Wales, Wikimedia Foundation
-subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
+subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2021-02-03
-author: Institute for Digital Public Infrastructure
+author: Initiative for Digital Public Infrastructure
 season: 1
 episodeNumber: 13
 episodeType: full
@@ -120,7 +120,7 @@ Because that's what people do at Wikipedia. They say, oh yeah, you don't have to
 
 *Ethan Zuckerman:*
 
-One of the things that I've been spending a lot of time on, because like you, I'm looking at what could we do differently in this space? I have a project that I've been working on over at the Knight First Amendment Institute over at Columbia, trying to sort of map different types of social networks. It's funny, we always talk Facebook and Twitter. They're the two that we come back to all the time. The truth is, there's a huge wealth of things that we call social networks that are actually quite different. The third most popular category we found are question and answer networks. Things like Quora, all these different programming boards where people will put up questions and give answers, and it's a very different form of conversation, actually can be a very rich type of conversation. Social media these days also seems to include content creators, which are really sort of micro broadcasters, someone who is creating a YouTube channel. This is my 11 year old's sincere aspiration, is to be a successful YouTube creator.
+One of the things that I've been spending a lot of time on, because like you, I'm looking at what could we do differently in this space? I have a project that I've been working on over at the Knight First Amendment Initiative over at Columbia, trying to sort of map different types of social networks. It's funny, we always talk Facebook and Twitter. They're the two that we come back to all the time. The truth is, there's a huge wealth of things that we call social networks that are actually quite different. The third most popular category we found are question and answer networks. Things like Quora, all these different programming boards where people will put up questions and give answers, and it's a very different form of conversation, actually can be a very rich type of conversation. Social media these days also seems to include content creators, which are really sort of micro broadcasters, someone who is creating a YouTube channel. This is my 11 year old's sincere aspiration, is to be a successful YouTube creator.
 
 It's not actually that social. It's really more that you're producing something and you're sort of looking for this patron, its relationship with it. It's almost as if everything that involves a user profile, the ability to follow, and as you pointed out, an ad based support model, we're calling all of these things social media. The truth is, there's sociability, which covers a huge, huge range of activities. There's media, including the Zoom medium that we're using here, and there's all sorts of interesting, different ways to intersect. I love the fact that you're looking at WT social and essentially saying, look, here are some things we want. We're not doing the ad model. We're not doing a paywall, which means it's not a traditional subscription. We're going to get people to chip into it, and we're going to try to have slower, more serious conversations.
 

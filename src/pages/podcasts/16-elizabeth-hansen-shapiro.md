@@ -5,9 +5,9 @@ slug: /podcast/16-elizabeth-hansen-shapiro
 featuredImage: '../../images/podcast-images/16-elizabeth-hansen-shapiro.png'
 guid: publicinfrastructure.org/podcast/16-elizabeth-hansen-shapiro
 title: Elizabeth Hansen-Shapiro
-subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
+subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2021-03-03
-author: Institute for Digital Public Infrastructure
+author: Initiative for Digital Public Infrastructure
 season: 1
 episodeNumber: 16
 episodeType: full
@@ -156,7 +156,7 @@ Let's dig into those two things. Talk to me first about sort of regulatory solut
 
 *Elizabeth Hansen-Shapiro:*
 
-The first area where I think there are some promise, and in some ways, this is kind of starting small, but, Ethan, you and I have had some discussions with the Knight First Amendment Institute around supporting a researcher safe harbor, particularly for the CFAA, so a kind of targeted kind of scalpel approach that goes directly to this argument about violations of terms of service that platforms can engage in, in order to stop the kinds of data collection like the NYU Ad Observatory. A safe harbor exception in the CFAA, I think would really help.
+The first area where I think there are some promise, and in some ways, this is kind of starting small, but, Ethan, you and I have had some discussions with the Knight First Amendment Initiative around supporting a researcher safe harbor, particularly for the CFAA, so a kind of targeted kind of scalpel approach that goes directly to this argument about violations of terms of service that platforms can engage in, in order to stop the kinds of data collection like the NYU Ad Observatory. A safe harbor exception in the CFAA, I think would really help.
 
 *Ethan Zuckerman:*
 

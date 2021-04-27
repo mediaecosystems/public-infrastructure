@@ -5,9 +5,9 @@ slug: /podcast/10-amy-zhang
 featuredImage: '../../images/podcast-images/10-amy-zhang.png'
 guid: publicinfrastructure.org/podcast/10-amy-zhang
 title: Amy Zhang, University of Washington
-subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
+subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2021-01-13
-author: Institute for Digital Public Infrastructure
+author: Initiative for Digital Public Infrastructure
 season: 1
 episodeNumber: 10
 episodeType: full
@@ -78,7 +78,7 @@ So I think in general, I would say the Social Futures Lab is interested in this 
 
 *Ethan Zuckerman:*
 
-One of the things that we're really interested in and over at my group at the Institute for Digital Public Infrastructure is trying to pivot social media so that our communities are more often run by the people who use them rather than by that sort of distant authority. In some ways for me, the mailing list administrator at least was not quite as bad as what we have with something like Facebook, because at least you knew who she or he was, and you could appeal to that person.
+One of the things that we're really interested in and over at my group at the Initiative for Digital Public Infrastructure is trying to pivot social media so that our communities are more often run by the people who use them rather than by that sort of distant authority. In some ways for me, the mailing list administrator at least was not quite as bad as what we have with something like Facebook, because at least you knew who she or he was, and you could appeal to that person.
 
 What we have on so many platforms is something that's essentially just invisible and implacable. There's no way to actually talk to them. Tell me a little bit more about what people can do with PolicyKit, who are the users for it? How do they make choices about what sort of policies they want to have on their servers, and then how would they actually implement them?
 

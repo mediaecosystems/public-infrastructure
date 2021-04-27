@@ -5,9 +5,9 @@ slug: /podcast/15-julia-angwin
 featuredImage: '../../images/podcast-images/15-julia-angwin.png'
 guid: publicinfrastructure.org/podcast/15-julia-angwin
 title: Julia Angwin, The Markup
-subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
+subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2021-02-17
-author: Institute for Digital Public Infrastructure
+author: Initiative for Digital Public Infrastructure
 season: 1
 episodeNumber: 15
 episodeType: full

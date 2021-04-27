@@ -5,13 +5,13 @@ slug: /podcast/09-holiday-special
 featuredImage: '../../images/podcast-images/09-holiday-special.png'
 guid: publicinfrastructure.org/podcast/09-holiday-special
 title: Holiday Special with Chand Rajendra-Nicolucci and Mike Sugarman
-subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
+subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2020-12-23
-author: Institute for Digital Public Infrastructure
+author: Initiative for Digital Public Infrastructure
 season: 1
 episodeNumber: 9
 episodeType: full
-excerpt: For this very special episode of Reimagining the Internet, Ethan is joined by Knight First Amendment Institute research fellow Chand Rajendra-Nicolucci and producer Mike Sugarman to celebrate 12 days of reimagining the internet. We talk about our favorite stuff on the internet this year, and what we're looking forward to in 2021. We share our holidy cheer talking about Zoom class fails, livestreaming concerts, and a speculative West African recipe war.
+excerpt: For this very special episode of Reimagining the Internet, Ethan is joined by Knight First Amendment Initiative research fellow Chand Rajendra-Nicolucci and producer Mike Sugarman to celebrate 12 days of reimagining the internet. We talk about our favorite stuff on the internet this year, and what we're looking forward to in 2021. We share our holidy cheer talking about Zoom class fails, livestreaming concerts, and a speculative West African recipe war.
 url: 'https://archive.org/download/09-holiday-special/09-holiday-special.mp3'
 embed: 'https://archive.org/embed/09-holiday-special'
 youtubeEmbedURL: 'https://www.youtube.com/embed/8ikUVVdtm1M'
@@ -24,7 +24,7 @@ categories:
   - Science
 ---
 
-For this very special episode of Reimagining the Internet, Ethan is joined by Knight First Amendment Institute research fellow [Chand Rajendra-Nicolucci](https://knightcolumbia.org/bios/view/chand-rajendra-nicolucci) and producer Mike Sugarman to celebrate 12 days of reimagining the internet. We talk about our favorite stuff on the internet this year, and what we're looking forward to in 2021. We share our holidy cheer talking about Zoom class fails, livestreaming concerts, and a speculative West African recipe war.
+For this very special episode of Reimagining the Internet, Ethan is joined by Knight First Amendment Initiative research fellow [Chand Rajendra-Nicolucci](https://knightcolumbia.org/bios/view/chand-rajendra-nicolucci) and producer Mike Sugarman to celebrate 12 days of reimagining the internet. We talk about our favorite stuff on the internet this year, and what we're looking forward to in 2021. We share our holidy cheer talking about Zoom class fails, livestreaming concerts, and a speculative West African recipe war.
 
 A list of things mentioned on this podcast:
 
@@ -209,4 +209,4 @@ Yeah, my prediction for 2021, it's the hopeful one. It's maybe a little optimist
 
 We might even find ourselves wanting to be part of that party, which is something that I got to tell you right now, at the end of 2020, none of us wants at all. Mike Sugarman, Chand Rajendra-Nicolucci, it's been such a pleasure working with both of you all year. Mike, there's not a chance we would have gotten this podcast off the ground without you. Chand, in general, I would be much, much less smart about social networks and all of these issues, had we not had the chance to work together. I am grateful for both of you gentlemen, and the work that we got to do in 2020, and I'm wishing both of you and all of our listeners, a better 2021. Happy Holidays from us at Re-Imagining the Internet.
 
-Thanks to every one at the University of Massachusetts at Amherst, which hosts the Institute for Digital Public Infrastructure. Thanks to the Knight First Amendment Institute at Columbia University, for all of their help and support on this project. Thank you all for listening. Please tune in, in 2021 where we'll have some new, great interviews and insights on how we can all reimagine the internet.
+Thanks to every one at the University of Massachusetts at Amherst, which hosts the Initiative for Digital Public Infrastructure. Thanks to the Knight First Amendment Initiative at Columbia University, for all of their help and support on this project. Thank you all for listening. Please tune in, in 2021 where we'll have some new, great interviews and insights on how we can all reimagine the internet.

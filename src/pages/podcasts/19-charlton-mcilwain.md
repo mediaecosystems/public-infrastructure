@@ -5,9 +5,9 @@ slug: /podcast/19-charlton-mcilwain
 featuredImage: '../../images/podcast-images/19-charlton-mcilwain.png'
 guid: publicinfrastructure.org/podcast/19-charlton-mcilwain
 title: Charlton McIlwain, Black Software
-subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
+subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2021-03-31
-author: Institute for Digital Public Infrastructure
+author: Initiative for Digital Public Infrastructure
 season: 1
 episodeNumber: 19
 episodeType: full
@@ -30,7 +30,7 @@ We’re incredibly excited to have [Charlton McIlwain](https://charltonmcilwain.
 
 *Ethan Zuckerman:*
 
-Hi, everybody. Welcome back to Reimagining the Internet. I am your host, Ethan Zuckerman with the Institute for Digital Public Infrastructure at UMass Amherst. I am thrilled today to have my friend Charlton McIlwain. He's the vice provost for faculty engagement and development. He's a professor of media, culture and communication at NYU. Important for our conversation today, he is the author of the acclaimed Black Software from AfroNet to Black Lives Matter. You can see the cover of it above his shoulder. Charlton, it's so good to have you here.
+Hi, everybody. Welcome back to Reimagining the Internet. I am your host, Ethan Zuckerman with the Initiative for Digital Public Infrastructure at UMass Amherst. I am thrilled today to have my friend Charlton McIlwain. He's the vice provost for faculty engagement and development. He's a professor of media, culture and communication at NYU. Important for our conversation today, he is the author of the acclaimed Black Software from AfroNet to Black Lives Matter. You can see the cover of it above his shoulder. Charlton, it's so good to have you here.
 
 *Charlton McIlwain:*
 

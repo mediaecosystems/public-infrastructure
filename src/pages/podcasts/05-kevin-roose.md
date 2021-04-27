@@ -5,9 +5,9 @@ slug: /podcast/05-kevin-roose
 featuredImage: '../../images/podcast-images/05-kevin-roose.png'
 guid: publicinfrastructure.org/podcast/05-kevin-roose
 title: Kevin Roose, The New York Times
-subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
+subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2020-11-17
-author: Institute for Digital Public Infrastructure
+author: Initiative for Digital Public Infrastructure
 season: 1
 episodeNumber: 5
 episodeType: full
@@ -32,7 +32,7 @@ Kevin Roose reported and produced the excellent [Rabbit Hole](https://www.nytime
 
 *Ethan Zuckerman*:
 
-Hi, everyone. Welcome to Reimagining the Internet. This is an ongoing podcast series from the Institute for Digital Public Infrastructure at the University of Massachusetts at Amherst. My name is *Ethan Zuckerman*, I'm your host. And today we're with tech columnist for the New York Times, author, investigative journalist, a thorn in the side of Facebook and many technology platform companies, I think one of the people doing the best work right now in technology writing, *Kevin Roose*. How are you Kevin?
+Hi, everyone. Welcome to Reimagining the Internet. This is an ongoing podcast series from the Initiative for Digital Public Infrastructure at the University of Massachusetts at Amherst. My name is *Ethan Zuckerman*, I'm your host. And today we're with tech columnist for the New York Times, author, investigative journalist, a thorn in the side of Facebook and many technology platform companies, I think one of the people doing the best work right now in technology writing, *Kevin Roose*. How are you Kevin?
 
 *Kevin Roose*:
 

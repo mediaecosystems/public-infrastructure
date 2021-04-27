@@ -5,13 +5,13 @@ slug: /podcast/06-kate-crawford
 featuredImage: '../../images/podcast-images/06-kate-crawford.png'
 guid: publicinfrastructure.org/podcast/06-kate-crawford
 title: Kate Crawford, Atlas of AI
-subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
+subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2020-11-25
-author: Institute for Digital Public Infrastructure
+author: Initiative for Digital Public Infrastructure
 season: 1
 episodeNumber: 6
 episodeType: full
-excerpt: Scholar and artist Kate Crawford joins the podcast to talk about why we don’t just need to imagine how to fix the internet, but how we want to change society. Kate is a co-founder of the AI Now Institute at NYU and author of the Atlas of AI, coming April 2021 on Yale University Press. She walks us through the extractive nature of AI, talks about her collaborations with Vladan Joler (recently acquired by MoMA) and Trevor Paglan, and a fascinating history of classification. Visit the episode page for a transcript of the interview and links to work mentioned in the interview.
+excerpt: Scholar and artist Kate Crawford joins the podcast to talk about why we don’t just need to imagine how to fix the internet, but how we want to change society. Kate is a co-founder of the AI Now Initiative at NYU and author of the Atlas of AI, coming April 2021 on Yale University Press. She walks us through the extractive nature of AI, talks about her collaborations with Vladan Joler (recently acquired by MoMA) and Trevor Paglan, and a fascinating history of classification. Visit the episode page for a transcript of the interview and links to work mentioned in the interview.
 url: 'https://archive.org/download/06.-kate-crawford-atlas-of-ai/06.%20Kate%20Crawford%2C%20Atlas%20of%20AI.mp3'
 embed: 'https://archive.org/embed/06.-kate-crawford-atlas-of-ai'
 youtubeEmbedURL: 'https://www.youtube.com/embed/dLyHbHWYSNc'
@@ -24,7 +24,7 @@ categories:
   - Science
 ---
 
-Scholar and artist [Kate Crawford](https://www.katecrawford.net/) joins the podcast to talk about why we don’t just need to imagine how to fix the internet, but how we want to change society. Kate is a co-founder of the [AI Now Institute](https://ainowinstitute.org/) at NYU and author of the [*Atlas of AI*](https://yalebooks.yale.edu/book/9780300209570/atlas-ai), coming April 2021 on Yale University Press. She walks us through the extractive nature of AI, talks about her collaborations with Vladan Joler (recently acquired by MoMA) and Trevor Paglan, and a fascinating history of classification. 
+Scholar and artist [Kate Crawford](https://www.katecrawford.net/) joins the podcast to talk about why we don’t just need to imagine how to fix the internet, but how we want to change society. Kate is a co-founder of the [AI Now Initiative](https://ainowInitiative.org/) at NYU and author of the [*Atlas of AI*](https://yalebooks.yale.edu/book/9780300209570/atlas-ai), coming April 2021 on Yale University Press. She walks us through the extractive nature of AI, talks about her collaborations with Vladan Joler (recently acquired by MoMA) and Trevor Paglan, and a fascinating history of classification. 
 
 View her collaboration with Joler, ["Anatomy of an AI System"](https://anatomyof.ai/), and read the essay she wrote with Trevor Paglan about their work togher, ["Excavating AI."](https://www.excavating.ai/)
 

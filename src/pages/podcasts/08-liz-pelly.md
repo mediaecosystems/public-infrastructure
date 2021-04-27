@@ -5,9 +5,9 @@ slug: /podcast/08-liz-pelly
 featuredImage: '../../images/podcast-images/08-liz-pelly.png'
 guid: publicinfrastructure.org/podcast/08-liz-pelly
 title: Liz Pelly, The Baffler
-subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
+subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2020-12-09
-author: Institute for Digital Public Infrastructure
+author: Initiative for Digital Public Infrastructure
 season: 1
 episodeNumber: 8
 episodeType: full

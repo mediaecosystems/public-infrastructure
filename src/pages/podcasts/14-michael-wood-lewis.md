@@ -5,9 +5,9 @@ slug: /podcast/14-michael-wood-lewis
 featuredImage: '../../images/podcast-images/14-michael-wood-lewis.png'
 guid: publicinfrastructure.org/podcast/14-michael-wood-lewis
 title: Michael Wood-Lewis, Front Porch Forum
-subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
+subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2021-02-10
-author: Institute for Digital Public Infrastructure
+author: Initiative for Digital Public Infrastructure
 season: 1
 episodeNumber: 14
 episodeType: full

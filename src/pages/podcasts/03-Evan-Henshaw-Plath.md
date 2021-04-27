@@ -5,9 +5,9 @@ slug: /podcast/03-evan-henshaw-plath
 featuredImage: '../../images/podcast-images/03-evan-henshaw-plath.png'
 guid: publicinfrastructure.org/podcast/03-evan-henshaw-plath
 title: Evan Henshaw-Plath, Planetary.Social
-subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
+subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2020-11-03
-author: Institute for Digital Public Infrastructure
+author: Initiative for Digital Public Infrastructure
 season: 1
 episodeNumber: 3
 episodeType: full

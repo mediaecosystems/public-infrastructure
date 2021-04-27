@@ -5,9 +5,9 @@ slug: /podcast/02-talia-stroud
 featuredImage: '../../images/podcast-images/02-talia-stroud.png'
 guid: publicinfrastructure.org/podcast/02-talia-stroud
 title: Talia Stroud, Civic Signals
-subtitle: Presented by the Institute for Digital Public Infrastructure at UMass Amherst
+subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2020-10-27
-author: Institute for Digital Public Infrastructure
+author: Initiative for Digital Public Infrastructure
 season: 1
 episodeNumber: 2
 episodeType: full
@@ -136,7 +136,7 @@ And then after that, our full intention is that we'll have briefings inside many
 
 *Ethan Zuckerman*:
 
-Yeah, it feels like in a certain way, for this to succeed, there needs to be a bit of a movement behind it. There needs to be a bit of an insistence that the platforms take our collective civic life seriously. And for me, it's one of the places where I see Institute for Digital Public Infrastructure and Civic Signals most allied, which is that we're sharing this common vision that these places, whether we like them or not, are going to be critically important for civics, even if the pandemic ends tomorrow. These are simply the spaces in which we are most likely to have these critically important conversations. And if they don't have the norms or affordances that help us have those conversations, they're going to remain an impoverished space. And over time, they're going to impoverish our democracy more broadly.
+Yeah, it feels like in a certain way, for this to succeed, there needs to be a bit of a movement behind it. There needs to be a bit of an insistence that the platforms take our collective civic life seriously. And for me, it's one of the places where I see Initiative for Digital Public Infrastructure and Civic Signals most allied, which is that we're sharing this common vision that these places, whether we like them or not, are going to be critically important for civics, even if the pandemic ends tomorrow. These are simply the spaces in which we are most likely to have these critically important conversations. And if they don't have the norms or affordances that help us have those conversations, they're going to remain an impoverished space. And over time, they're going to impoverish our democracy more broadly.
 
 *Talis Stroud*:
 
