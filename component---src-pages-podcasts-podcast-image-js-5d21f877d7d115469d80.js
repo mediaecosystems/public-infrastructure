@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{WcIm:function(e,n,a){"use strict";a.r(n),a.d(n,"query",(function(){return c}));var t=a("q1tI"),r=a.n(t),u=a("9eSz"),i=a.n(u);n.default=function(e){var n=e.data;return r.a.createElement("div",null,r.a.createElement(i.a,{fluid:n.file.childImageSharp.fluid}))};var c="842444164"}}]);
-//# sourceMappingURL=component---src-pages-podcasts-podcast-image-js-5d21f877d7d115469d80.js.map
