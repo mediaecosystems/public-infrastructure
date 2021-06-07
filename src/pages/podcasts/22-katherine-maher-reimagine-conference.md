@@ -6,7 +6,7 @@ featuredImage: '../../images/podcast-images/reimagine-maher.png'
 guid: publicinfrastructure.org/podcast/22-katherine-maher-reimagine-conference
 title: Katherine Maher (#Reimagine conference, May 2021)
 subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
-publicationDate: 2021-06-03
+publicationDate: 2021-06-08
 author: Initiative for Digital Public Infrastructure
 season: 1
 episodeNumber: 22

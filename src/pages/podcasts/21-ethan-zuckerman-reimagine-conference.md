@@ -6,7 +6,7 @@ featuredImage: '../../images/podcast-images/reimagine-zuckerman.png'
 guid: publicinfrastructure.org/podcast/21-ethan-zuckerman-reimagine-conference
 title: Ethan Zuckerman (#Reimagine conference, May 2021)
 subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
-publicationDate: 2021-06-03
+publicationDate: 2021-06-08
 author: Initiative for Digital Public Infrastructure
 season: 1
 episodeNumber: 21
