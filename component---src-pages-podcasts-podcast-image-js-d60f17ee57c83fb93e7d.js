@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[33],{WcIm:function(n,a,e){"use strict";e.r(a);e("q1tI");var i=e("9eSz"),t=e.n(i),c=e("qKvR");a.default=function(n){var a=n.data;return Object(c.b)("div",null,Object(c.b)(t.a,{fluid:a.file.childImageSharp.fluid}))}}}]);
+//# sourceMappingURL=component---src-pages-podcasts-podcast-image-js-d60f17ee57c83fb93e7d.js.map
