@@ -2,7 +2,7 @@
 type: podcast-episode
 status: published
 slug: /podcast/33-jillian-c-yorke
-featuredImage: '../../images/33-jillian-c-yorke.png'
+featuredImage: '../../images/podcast-images/33-jillian-c-yorke.png'
 guid: publicinfrastructure.org/podcast/33-jillian-c-yorke
 title: Jillian C. Yorke (Electronic Frontier Foundation)
 subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
