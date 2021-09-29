@@ -11,7 +11,7 @@ author: Initiative for Digital Public Infrastructure
 season: 2
 episodeNumber: 34-bonus
 episodeType: full
-excerpt: In this bonus episode, Omar Wasow talks about his paper published last year documenting the political impact and public opinion resulting from the 1960s civil rights movement in America, "Agenda Seeding: How 1960s Black Protests Moved Elites, Public Opinion and Voting."
+excerpt: In this bonus episode, Omar Wasow talks about his paper published last year documenting the political impact and public opinion resulting from the 1960s civil rights movement in America.
 url: 'https://archive.org/download/reimagining-the-internet-34.-omar-wasow-black-planet/Reimagining%20the%20Internet%2034%20Bonus.%20Omar%20Wasow%2C%20Black%20Planet.mp3'
 embed: 'https://archive.org/embed/reimagining-the-internet-34.-omar-wasow-black-planet'
 youtubeEmbedURL: 'https://www.youtube.com/embed/iKlrudBZxJM'
