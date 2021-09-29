@@ -9,7 +9,7 @@ subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass
 publicationDate: 2021-10-02
 author: Initiative for Digital Public Infrastructure
 season: 2
-episodeNumber: 34.5
+episodeNumber: 35
 episodeType: full
 excerpt: In this bonus episode, Omar Wasow talks about his paper published last year documenting the political impact and public opinion resulting from the 1960s civil rights movement in America.
 url: 'https://archive.org/download/reimagining-the-internet-34.-omar-wasow-black-planet/Reimagining%20the%20Internet%2034%20Bonus.%20Omar%20Wasow%2C%20Black%20Planet.mp3'
