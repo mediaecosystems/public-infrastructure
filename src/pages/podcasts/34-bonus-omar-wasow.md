@@ -6,7 +6,7 @@ featuredImage: '../../images/podcast-images/34-omar-wasow.png'
 guid: publicinfrastructure.org/podcast/34-bonus-omar-wasow
 title: Omar Wasow (Pomona College, Black Planet)
 subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
-publicationDate: 2021-10-2
+publicationDate: 2021-10-02
 author: Initiative for Digital Public Infrastructure
 season: 2
 episodeNumber: 34-bonus
