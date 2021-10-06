@@ -1,7 +1,7 @@
 ---
 type: podcast-episode
 status: published
-slug: /podcast/36-caroline sinders
+slug: /podcast/36-caroline-sinders
 featuredImage: '../../images/podcast-images/36-caroline-sinders.png'
 guid: publicinfrastructure.org/podcast/36-caroline-sinders
 title: Caroline Sinders (Convocation Design)
