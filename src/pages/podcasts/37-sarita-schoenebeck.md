@@ -26,6 +26,8 @@ categories:
 
 Moderation processes online should reduce harm, offer victims justice they find meaningful, and fix inequity in these social spaces. On all of these counts, the moderation systems implemented by big social media companies fail conclusively. [Sarita Schoenebeck](https://yardi.people.si.umich.edu) from the [Living Online Lab](http://yardi.people.si.umich.edu/lol/) at the University of Michigan joins us to talk about what moderation and harm reduction driven by the real-world experiences of victims might look like.
 
+Sarita has published recently on [accounability and repair after online harassment](https://yardi.people.si.umich.edu/pubs/Schoenebeck_YouthTrust2021.pdf), [reimagining social media governance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895779), and [restorative justice frameworks for online life](https://yardi.people.si.umich.edu/pubs/Schoenebeck_Justice2020.pdf).
+
 # Transcript
 
 *Ethan Zuckerman:*
