@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkpublic_infrastructure_org=self.webpackChunkpublic_infrastructure_org||[]).push([[8011],{8377:function(u,r,t){t.r(r);t(7294);var i=t(1496),a=t(3431);r.default=function(u){var r=u.data;return(0,a.tZ)("div",null,(0,a.tZ)(i.Z,{fluid:r.file.childImageSharp.fluid}))}}}]);
+//# sourceMappingURL=component---src-pages-podcasts-podcast-image-js-2fe0c96ba961a9f850fc.js.map
