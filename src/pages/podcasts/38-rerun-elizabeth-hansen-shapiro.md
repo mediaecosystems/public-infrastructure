@@ -6,7 +6,7 @@ featuredImage: '../../images/podcast-images/16-elizabeth-hansen-shapiro.png'
 guid: publicinfrastructure.org/podcast/38-rerun-elizabeth-hansen-shapiro
 title: Rerun — Elizabeth Hansen-Shapiro
 subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
-publicationDate: 2021-10-09
+publicationDate: 2021-10-19
 author: Initiative for Digital Public Infrastructure
 season: 1
 episodeNumber: 38
