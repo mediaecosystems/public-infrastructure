@@ -11,7 +11,7 @@ author: Initiative for Digital Public Infrastructure
 season: 1
 episodeNumber: 38
 episodeType: full
-excerpt: Elizabeth Hansen-Shapiro joins Ethan to talk about “New Approaches to Platform Data Research,” the report they just published together with the NetGain Partnership. Elizabeth and Ethan talk about a variety of issues facing journalists and researchers for studying social media companies, and what sort of solutions — both small-scale and radical — could help ensure a better-studied, more accountable social media ecosystem. Elizabeth is the co-founded of the National Trust for Local News.
+excerpt: Elizabeth Hansen-Shapiro joins Ethan to talk about “New Approaches to Platform Data Research,” the report they just published together with the NetGain Partnership. Elizabeth and Ethan talk about a variety of issues facing journalists and researchers for studying social media companies, and what sort of solutions — both small-scale and radical — could help ensure a better-studied, more accountable social media ecosystem. Elizabeth is the co-founder of the National Trust for Local News.
 url: 'https://archive.org/download/reimagining-the-internet-16.-elizabeth-hansen-shapiro/Reimagining%20the%20Internet%2016.%20Elizabeth%20Hansen%20Shapiro.mp3'
 embed: 'https://archive.org/embed/reimagining-the-internet-16.-elizabeth-hansen-shapiro'
 youtubeEmbedURL: 'https://www.youtube.com/embed/HtSlzbn_srU'
