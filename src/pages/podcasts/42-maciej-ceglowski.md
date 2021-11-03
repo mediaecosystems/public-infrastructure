@@ -24,7 +24,7 @@ categories:
   - Science
 ---
 
-[Maciej Ceglowski](https://idlewords.com/about.htm) is not just the founder of one of the indie web's success stories — the modest yet long-running subscription bookmarking service [Pinboard](https://pinboard.in) — but a prolific commentator on the world the Internet is helping to create. This week, we're thrilled to chat with Maciej about reimagining not  just the Internet, but the stakes that the people using the Internet are responding to.
+[Maciej Ceglowski](https://idlewords.com/about.htm) is not just the founder of one of the indie web's success stories — the modest yet long-running subscription bookmarking service [Pinboard](https://pinboard.in) — but a prolific commentator on the world the Internet is helping to create. This week, we're thrilled to chat founder Maciej Ceglowski about the stakes, both online and offline, that inform how people use the Internet today.
 
 While Maciej does most his writing [on Twitter](https://twitter.com/Pinboard?s=20) these days, he used to write prolifically on his blog [Idle Words](https://idlewords.com).
 
