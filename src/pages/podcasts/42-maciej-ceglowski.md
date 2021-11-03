@@ -6,7 +6,7 @@ featuredImage: '../../images/podcast-images/42-maciej-ceglowski.png'
 guid: publicinfrastructure.org/podcast/42-maciej-ceglowski
 title: Maciej Ceglowski (Pinboard)
 subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
-publicationDate: 2021-11-4
+publicationDate: 2021-11-04
 author: Initiative for Digital Public Infrastructure
 season: 1
 episodeNumber: 42
