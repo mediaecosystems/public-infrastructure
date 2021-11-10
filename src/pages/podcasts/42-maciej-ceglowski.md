@@ -8,7 +8,7 @@ title: Maciej Ceglowski (Pinboard)
 subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2021-11-04
 author: Initiative for Digital Public Infrastructure
-season: 1
+season: 2
 episodeNumber: 42
 episodeType: full
 excerpt: Maciej Ceglowski is not just the founder of one of the indie web's success stories — the modest yet long-running subscription bookmarking service Pinboard — but a prolific commentator on the world the Internet is helping to create. This week, we're thrilled to chat with Maciej about reimagining not  just the Internet, but the stakes that the people using the Internet are responding to.

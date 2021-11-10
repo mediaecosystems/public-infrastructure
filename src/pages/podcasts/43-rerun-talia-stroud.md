@@ -8,7 +8,7 @@ title: Rerun — Talia Stroud, Civic Signals
 subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2021-11-06
 author: Initiative for Digital Public Infrastructure
-season: 1
+season: 2
 episodeNumber: 43
 episodeType: full
 excerpt: Talia Stroud from the University of Texas joins us to talk about her project Civic Signals, a project reimagining the Internet as a public space. She walks us through what’s wrong with the type of speech currently rewarded by Facebook and Twitter, and what it might look like to promote civic speech instead. Recorded August, 2020. Visit our episode web page for links to Civic Signals' website and newsletter, and Eli Pariser's TED Talk.

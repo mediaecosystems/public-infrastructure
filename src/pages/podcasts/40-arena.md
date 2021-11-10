@@ -8,7 +8,7 @@ title: Are.na with Charles Broskoski and Daniel Pianetti
 subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2021-10-28
 author: Initiative for Digital Public Infrastructure
-season: 1
+season: 2
 episodeNumber: 40
 episodeType: full
 excerpt: Are.na might be the most exciting social network for designers, artists, and curious, interdisciplinary self-educators, kind of like Pinterest or Tumblr but offering the functionality to spin a vast web of images and knowledge. The platform is currently celebrating its 10th anniversary, so we invited two of Are.na's co-founders to talk to us about the close-knit (and often paying) community that makes the site vibrant and how the platform's systems of Blocks and Channels makes it an ideal tool for connecting ideas and creating trains of thought.

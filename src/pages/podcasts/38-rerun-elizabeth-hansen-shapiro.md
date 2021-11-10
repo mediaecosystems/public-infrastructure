@@ -8,7 +8,7 @@ title: Rerun — Elizabeth Hansen-Shapiro
 subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2021-10-19
 author: Initiative for Digital Public Infrastructure
-season: 1
+season: 2
 episodeNumber: 38
 episodeType: full
 excerpt: Elizabeth Hansen-Shapiro joins Ethan to talk about “New Approaches to Platform Data Research,” the report they just published together with the NetGain Partnership. Elizabeth and Ethan talk about a variety of issues facing journalists and researchers for studying social media companies, and what sort of solutions — both small-scale and radical — could help ensure a better-studied, more accountable social media ecosystem. Elizabeth is the co-founder of the National Trust for Local News.

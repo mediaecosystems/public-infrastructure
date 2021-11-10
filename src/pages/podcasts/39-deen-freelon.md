@@ -8,7 +8,7 @@ title: Deen Freelon, UNC-Chapel Hill
 subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2021-10-21
 author: Initiative for Digital Public Infrastructure
-season: 1
+season: 2
 episodeNumber: 39
 episodeType: full
 excerpt: Deen Freelon is one of the foremost scholars on how contemporary protest movements organize on the Internet. This week Deen joins us to talk about his work on the Black Lives Matter movement, how he's trying to understand mis- and disinformation from both the right and the left, and what fixing social media might look like when the scale of platforms like Facebook and Twitter is what makes them so exciting and so difficult to moderate.

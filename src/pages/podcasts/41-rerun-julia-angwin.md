@@ -8,7 +8,7 @@ title: Rerun — Julia Angwin, The Markup
 subtitle: Presented by the Initiative for Digital Public Infrastructure at UMass Amherst
 publicationDate: 2021-10-30
 author: Initiative for Digital Public Infrastructure
-season: 1
+season: 2
 episodeNumber: 41
 episodeType: full
 excerpt: Julia Angwin, co-founder and Editor-in-Chief of The Markup, joins us to talk about her innovative method for investigating Facebook and holding it accountable — paying Facebook users to show her team what they’re seeing. This is a thrilling interview about what the future of data journalism looks like, and just how weird it is that investigative journalists are doing the work that regulators would do in any other industry.
