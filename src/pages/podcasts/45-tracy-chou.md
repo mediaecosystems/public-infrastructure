@@ -11,7 +11,7 @@ author: Initiative for Digital Public Infrastructure
 season: 2
 episodeNumber: 45
 episodeType: full
-excerpt: While some big social media companies are working to use AI to combat harassment, Tracy Chou has a simpler solution: put users in control of what and who they see on their feeds. In this week's episode, Tracy tells us about he app Block Party, a clever and radical set of tools to protect users from trolling and abuse.
+excerpt: While some big social media companies are working to use AI to combat harassment, Tracy Chou has a simpler solution — put users in control of what and who they see on their feeds. In this week's episode, Tracy tells us about he app Block Party, a clever and radical set of tools to protect users from trolling and abuse.
 url: 'https://archive.org/download/reimagining-the-internet-45.-tracy-chou-block-party/Reimagining%20the%20Internet%2045.%20Tracy%20Chou%2C%20Block%20Party.mp3'
 embed: 'https://archive.org/embed/reimagining-the-internet-45.-tracy-chou-block-party'
 youtubeEmbedURL: 'https://www.youtube.com/embed/O_oUF22e7rk'
