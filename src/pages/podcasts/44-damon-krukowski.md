@@ -11,7 +11,7 @@ author: Initiative for Digital Public Infrastructure
 season: 2
 episodeNumber: 44
 episodeType: full
-excerpt: Maciej Ceglowski is not just the founder of one of the indie web's success stories — the modest yet long-running subscription bookmarking service Pinboard — but a prolific commentator on the world the Internet is helping to create. This week, we're thrilled to chat with Maciej about reimagining not  just the Internet, but the stakes that the people using the Internet are responding to.
+excerpt: Did Spotify save the music industry or simply find a way for itself to profit from a power vacuum opened up by piracy? This week, we're thrilled to welcome drummer and writer Damon Krukowski to talk to us about how Spotify became dominant and how musicians are fighting it to win a music industry that supports their livelihoods.
 url: 'https://archive.org/download/reimagining-the-internet-44.-damon-krukowski-damon-and-naomi/Reimagining%20the%20Internet%2044.%20Damon%20Krukowski%2C%20Damon%20and%20Naomi.mp3'
 embed: 'https://archive.org/embed/reimagining-the-internet-44.-damon-krukowski-damon-and-naomi'
 youtubeEmbedURL: 'https://www.youtube.com/embed/KvVSP-m2T0c'
